@@ -7,10 +7,22 @@ import { firestorePlugin } from "vuefire";
 
 Vue.use(firestorePlugin);
 
+import * as VueGoogleMaps from "vue2-google-maps";
+
+Vue.use(VueGoogleMaps, {
+  load: {
+    key: "AIzaSyAwNiNG4YFO3t8eFJgsCfH4pUgh8EMEf0E",
+    libraries: ["geometry"]
+  }
+});
+
 import { BootstrapVue, IconsPlugin } from "bootstrap-vue";
 
 import "bootstrap/dist/css/bootstrap.css";
 import "bootstrap-vue/dist/bootstrap-vue.css";
+import router from "./router";
+import store from "./store";
+import "./registerServiceWorker";
 
 // Install BootstrapVue
 Vue.use(BootstrapVue);
@@ -20,5 +32,7 @@ Vue.use(IconsPlugin);
 Vue.config.productionTip = false;
 
 new Vue({
+  router,
+  store,
   render: h => h(App)
 }).$mount("#app");
