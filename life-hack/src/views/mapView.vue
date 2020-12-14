@@ -34,38 +34,51 @@
       </b-col>
     </b-row>
     <b-row align-h="center" align-v="center" class="m-3">
-      <b-card
-        img-src="https://placekitten.com/600/400"
-        img-alt="Card image"
-        img-right
-      >
-        <b-card-text class="text-left">
-          <li>
-            龍角手作茶
-          </li>
-          <li>
-            台北市文山區指南路二段33號
-          </li>
-          <li>
-            11:00 - 22:00(週日只到21:00)
-          </li>
-          <li>
-            $100
-          </li>
-          <li>
-            4.7
-          </li>
-        </b-card-text>
-      </b-card>
+      <b-col>
+        <b-card>
+          <b-row cols="3">
+            <b-col v-for="(m, index) in foodsubcat" :key="index">
+              <b-button class="m-1" block>{{ m }}</b-button>
+            </b-col>
+          </b-row>
+        </b-card>
+      </b-col>
+      <b-col>
+        <!-- <b-card
+          img-src="https://placekitten.com/600/400"
+          img-alt="Card image"
+          img-right
+        >
+          <b-card-text class="text-left">
+            <li>
+              龍角手作茶
+            </li>
+            <li>
+              台北市文山區指南路二段33號
+            </li>
+            <li>
+              11:00 - 22:00(週日只到21:00)
+            </li>
+            <li>
+              $100
+            </li>
+            <li>
+              4.7
+            </li>
+          </b-card-text>
+        </b-card> -->
+      </b-col>
     </b-row>
   </b-container>
 </template>
 
 <script>
+import foodData from "../data/food.json";
 export default {
   data() {
     return {
-      tabIndex: null
+      tabIndex: null,
+      foodsubcat: Object.keys(foodData)
     };
   }
 };
