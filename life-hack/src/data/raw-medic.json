@@ -1,0 +1,413 @@
+[
+  {
+    "類別": "綜合",
+    "診所名稱": "政大聯醫門診部",
+    "地址": "台北市文山區指南路二段117號",
+    "推薦交通方式＆推估花費時間": "走路&約2分鐘",
+    "營業時間": "週一至五11:30am-4:30pm, 週六9-11am, 週日不看診",
+    "geocode": {
+      "results": [
+        {
+          "address_components": [
+            {
+              "long_name": "117",
+              "short_name": "117",
+              "types": ["street_number"]
+            },
+            {
+              "long_name": "Section 2, Zhinan Road",
+              "short_name": "Section 2, Zhinan Road",
+              "types": ["route"]
+            },
+            {
+              "long_name": "Muzha",
+              "short_name": "Muzha",
+              "types": ["neighborhood", "political"]
+            },
+            {
+              "long_name": "Wenshan District",
+              "short_name": "Wenshan District",
+              "types": ["administrative_area_level_3", "political"]
+            },
+            {
+              "long_name": "Taipei City",
+              "short_name": "Taipei City",
+              "types": ["administrative_area_level_1", "political"]
+            },
+            {
+              "long_name": "Taiwan",
+              "short_name": "TW",
+              "types": ["country", "political"]
+            },
+            {
+              "long_name": "116",
+              "short_name": "116",
+              "types": ["postal_code"]
+            }
+          ],
+          "formatted_address": "No. 117, Section 2, Zhinan Road, Wenshan District, Taipei City, Taiwan 116",
+          "geometry": {
+            "location": { "lat": 24.987628, "lng": 121.5765284 },
+            "location_type": "ROOFTOP",
+            "viewport": {
+              "northeast": {
+                "lat": 24.9889769802915,
+                "lng": 121.5778773802915
+              },
+              "southwest": { "lat": 24.9862790197085, "lng": 121.5751794197085 }
+            }
+          },
+          "place_id": "ChIJmZ9B83uqQjQRlKDtHFI-MXU",
+          "plus_code": {
+            "compound_code": "XHQG+3J Wenshan District, 台北市 Taiwan",
+            "global_code": "7QP3XHQG+3J"
+          },
+          "types": ["street_address"]
+        }
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "類別": "骨科",
+    "診所名稱": "明瀚骨科診所",
+    "地址": "台北市文山區保儀路58號",
+    "推薦交通方式＆推估花費時間": "機車&約6分鐘",
+    "營業時間": "週一至五 8:00am-9:00pm,週六8:00am-4:00pm,週日8:00am-12:00pm",
+    "geocode": {
+      "results": [
+        {
+          "address_components": [
+            {
+              "long_name": "58",
+              "short_name": "58",
+              "types": ["street_number"]
+            },
+            {
+              "long_name": "Baoyi Road",
+              "short_name": "Baoyi Road",
+              "types": ["route"]
+            },
+            {
+              "long_name": "Muzha",
+              "short_name": "Muzha",
+              "types": ["neighborhood", "political"]
+            },
+            {
+              "long_name": "Wenshan District",
+              "short_name": "Wenshan District",
+              "types": ["administrative_area_level_3", "political"]
+            },
+            {
+              "long_name": "Taipei City",
+              "short_name": "Taipei City",
+              "types": ["administrative_area_level_1", "political"]
+            },
+            {
+              "long_name": "Taiwan",
+              "short_name": "TW",
+              "types": ["country", "political"]
+            },
+            {
+              "long_name": "116",
+              "short_name": "116",
+              "types": ["postal_code"]
+            }
+          ],
+          "formatted_address": "No. 58, Baoyi Road, Wenshan District, Taipei City, Taiwan 116",
+          "geometry": {
+            "location": { "lat": 24.9876256, "lng": 121.5684928 },
+            "location_type": "ROOFTOP",
+            "viewport": {
+              "northeast": {
+                "lat": 24.9889745802915,
+                "lng": 121.5698417802915
+              },
+              "southwest": { "lat": 24.9862766197085, "lng": 121.5671438197085 }
+            }
+          },
+          "place_id": "ChIJ9yNIKHeqQjQRG3jsGYOWTJE",
+          "plus_code": {
+            "compound_code": "XHQ9+39 Wenshan District, 台北市 Taiwan",
+            "global_code": "7QP3XHQ9+39"
+          },
+          "types": ["street_address"]
+        }
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "類別": "耳鼻喉科",
+    "診所名稱": "許至文耳鼻喉科診所",
+    "地址": "台北市文山區指南路一段2號",
+    "推薦交通方式＆推估花費時間": "機車&約6分鐘",
+    "營業時間": "週一至五8:00am-12:00pm;15:00pm-18:00pm;18:30pm-21:30pm,週六8:00am-12:00pm,週日不看診",
+    "geocode": {
+      "results": [
+        {
+          "address_components": [
+            { "long_name": "2", "short_name": "2", "types": ["street_number"] },
+            {
+              "long_name": "Section 1, Zhinan Road",
+              "short_name": "Section 1, Zhinan Road",
+              "types": ["route"]
+            },
+            {
+              "long_name": "Muzha",
+              "short_name": "Muzha",
+              "types": ["neighborhood", "political"]
+            },
+            {
+              "long_name": "Wenshan District",
+              "short_name": "Wenshan District",
+              "types": ["administrative_area_level_3", "political"]
+            },
+            {
+              "long_name": "Taipei City",
+              "short_name": "Taipei City",
+              "types": ["administrative_area_level_1", "political"]
+            },
+            {
+              "long_name": "Taiwan",
+              "short_name": "TW",
+              "types": ["country", "political"]
+            },
+            {
+              "long_name": "116",
+              "short_name": "116",
+              "types": ["postal_code"]
+            }
+          ],
+          "formatted_address": "No. 2, Section 1, Zhinan Road, Wenshan District, Taipei City, Taiwan 116",
+          "geometry": {
+            "location": { "lat": 24.9875398, "lng": 121.5687529 },
+            "location_type": "ROOFTOP",
+            "viewport": {
+              "northeast": {
+                "lat": 24.9888887802915,
+                "lng": 121.5701018802915
+              },
+              "southwest": { "lat": 24.9861908197085, "lng": 121.5674039197085 }
+            }
+          },
+          "place_id": "ChIJzVJLL3eqQjQRvo_yrcOMoAI",
+          "plus_code": {
+            "compound_code": "XHQ9+2G Wenshan District, 台北市 Taiwan",
+            "global_code": "7QP3XHQ9+2G"
+          },
+          "types": ["street_address"]
+        }
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "類別": "牙醫",
+    "診所名稱": "吉品牙醫診所",
+    "地址": "台北市文山區指南路二段203號",
+    "推薦交通方式＆推估花費時間": "走路&約3分鐘",
+    "營業時間": "週一至週六 1:30pm-5:30pm, 6:30pm-9:30pm; 週日不看診",
+    "geocode": {
+      "results": [
+        {
+          "address_components": [
+            {
+              "long_name": "203",
+              "short_name": "203",
+              "types": ["street_number"]
+            },
+            {
+              "long_name": "Section 2, Zhinan Road",
+              "short_name": "Section 2, Zhinan Road",
+              "types": ["route"]
+            },
+            {
+              "long_name": "Muzha",
+              "short_name": "Muzha",
+              "types": ["neighborhood", "political"]
+            },
+            {
+              "long_name": "Wenshan District",
+              "short_name": "Wenshan District",
+              "types": ["administrative_area_level_3", "political"]
+            },
+            {
+              "long_name": "Taipei City",
+              "short_name": "Taipei City",
+              "types": ["administrative_area_level_1", "political"]
+            },
+            {
+              "long_name": "Taiwan",
+              "short_name": "TW",
+              "types": ["country", "political"]
+            },
+            {
+              "long_name": "116",
+              "short_name": "116",
+              "types": ["postal_code"]
+            }
+          ],
+          "formatted_address": "No. 203, Section 2, Zhinan Road, Wenshan District, Taipei City, Taiwan 116",
+          "geometry": {
+            "location": { "lat": 24.9871523, "lng": 121.5785044 },
+            "location_type": "ROOFTOP",
+            "viewport": {
+              "northeast": {
+                "lat": 24.9885012802915,
+                "lng": 121.5798533802915
+              },
+              "southwest": {
+                "lat": 24.98580331970849,
+                "lng": 121.5771554197085
+              }
+            }
+          },
+          "place_id": "ChIJWYa9P3yqQjQRlli9GJr5_CQ",
+          "plus_code": {
+            "compound_code": "XHPH+VC Wenshan District, 台北市 Taiwan",
+            "global_code": "7QP3XHPH+VC"
+          },
+          "types": ["street_address"]
+        }
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "類別": "皮膚科",
+    "診所名稱": "邱成湦皮膚科",
+    "地址": "台北市文山區興隆路4段163號",
+    "推薦交通方式＆推估花費時間": "機車&約8分鐘",
+    "營業時間": "週一至週五 9:00am-12:00pm, 3:00pm-6:00pm, 6:30pm-9:30pm; 週日不看診",
+    "geocode": {
+      "results": [
+        {
+          "address_components": [
+            {
+              "long_name": "163",
+              "short_name": "163",
+              "types": ["street_number"]
+            },
+            {
+              "long_name": "Section 4, Xinglong Road",
+              "short_name": "Section 4, Xinglong Road",
+              "types": ["route"]
+            },
+            {
+              "long_name": "Muzha",
+              "short_name": "Muzha",
+              "types": ["neighborhood", "political"]
+            },
+            {
+              "long_name": "Wenshan District",
+              "short_name": "Wenshan District",
+              "types": ["administrative_area_level_3", "political"]
+            },
+            {
+              "long_name": "Taipei City",
+              "short_name": "Taipei City",
+              "types": ["administrative_area_level_1", "political"]
+            },
+            {
+              "long_name": "Taiwan",
+              "short_name": "TW",
+              "types": ["country", "political"]
+            },
+            {
+              "long_name": "116",
+              "short_name": "116",
+              "types": ["postal_code"]
+            }
+          ],
+          "formatted_address": "No. 163, Section 4, Xinglong Road, Wenshan District, Taipei City, Taiwan 116",
+          "geometry": {
+            "location": { "lat": 24.9842189, "lng": 121.5619615 },
+            "location_type": "ROOFTOP",
+            "viewport": {
+              "northeast": {
+                "lat": 24.9855678802915,
+                "lng": 121.5633104802915
+              },
+              "southwest": { "lat": 24.9828699197085, "lng": 121.5606125197085 }
+            }
+          },
+          "place_id": "ChIJE6EYht8BaDQRNuKOoOWA5J8",
+          "plus_code": {
+            "compound_code": "XHM6+MQ Wenshan District, 台北市 Taiwan",
+            "global_code": "7QP3XHM6+MQ"
+          },
+          "types": ["street_address"]
+        }
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "類別": "身心科",
+    "診所名稱": "新店北新身心精神科診所",
+    "地址": "新北市新店區北新路三段18號",
+    "推薦交通方式＆推估花費時間": "機車&約11分鐘",
+    "營業時間": "週一至五 10am-9pm; 週六週日不看診",
+    "geocode": {
+      "results": [
+        {
+          "address_components": [
+            {
+              "long_name": "18",
+              "short_name": "18",
+              "types": ["street_number"]
+            },
+            {
+              "long_name": "Section 3, Beixin Road",
+              "short_name": "Section 3, Beixin Road",
+              "types": ["route"]
+            },
+            {
+              "long_name": "Xindian District",
+              "short_name": "Xindian District",
+              "types": ["administrative_area_level_3", "political"]
+            },
+            {
+              "long_name": "New Taipei City",
+              "short_name": "New Taipei City",
+              "types": ["administrative_area_level_1", "political"]
+            },
+            {
+              "long_name": "Taiwan",
+              "short_name": "TW",
+              "types": ["country", "political"]
+            },
+            {
+              "long_name": "231",
+              "short_name": "231",
+              "types": ["postal_code"]
+            }
+          ],
+          "formatted_address": "No. 18, Section 3, Beixin Road, Xindian District, New Taipei City, Taiwan 231",
+          "geometry": {
+            "location": { "lat": 24.979337, "lng": 121.5424516 },
+            "location_type": "ROOFTOP",
+            "viewport": {
+              "northeast": {
+                "lat": 24.9806859802915,
+                "lng": 121.5438005802915
+              },
+              "southwest": {
+                "lat": 24.97798801970849,
+                "lng": 121.5411026197085
+              }
+            }
+          },
+          "place_id": "ChIJUU3m9vkBaDQRpzRawu0Ji2s",
+          "plus_code": {
+            "compound_code": "XGHR+PX Xindian District, 新北市 Taiwan",
+            "global_code": "7QP3XGHR+PX"
+          },
+          "types": ["street_address"]
+        }
+      ],
+      "status": "OK"
+    }
+  }
+]

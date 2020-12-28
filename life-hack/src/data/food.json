@@ -4,351 +4,31 @@
       "店名": "湯饌",
       "地址": "台北市文山區指南路二段46號",
       "評價": "味道普通但價格高、態度差、口味重",
-      "geocode": {
-        "results": [
-          {
-            "address_components": [
-              {
-                "long_name": "46",
-                "short_name": "46",
-                "types": ["street_number"]
-              },
-              {
-                "long_name": "Section 2, Zhinan Road",
-                "short_name": "Section 2, Zhinan Road",
-                "types": ["route"]
-              },
-              {
-                "long_name": "Muzha",
-                "short_name": "Muzha",
-                "types": ["neighborhood", "political"]
-              },
-              {
-                "long_name": "Wenshan District",
-                "short_name": "Wenshan District",
-                "types": ["administrative_area_level_3", "political"]
-              },
-              {
-                "long_name": "Taipei City",
-                "short_name": "Taipei City",
-                "types": ["administrative_area_level_1", "political"]
-              },
-              {
-                "long_name": "Taiwan",
-                "short_name": "TW",
-                "types": ["country", "political"]
-              },
-              {
-                "long_name": "116",
-                "short_name": "116",
-                "types": ["postal_code"]
-              }
-            ],
-            "formatted_address": "No. 46, Section 2, Zhinan Road, Wenshan District, Taipei City, Taiwan 116",
-            "geometry": {
-              "location": { "lat": 24.9877377, "lng": 121.5752134 },
-              "location_type": "ROOFTOP",
-              "viewport": {
-                "northeast": {
-                  "lat": 24.9890866802915,
-                  "lng": 121.5765623802915
-                },
-                "southwest": {
-                  "lat": 24.9863887197085,
-                  "lng": 121.5738644197085
-                }
-              }
-            },
-            "place_id": "ChIJ66vUw3uqQjQRpNE35p7Zxuo",
-            "plus_code": {
-              "compound_code": "XHQG+33 Wenshan District, 台北市 Taiwan",
-              "global_code": "7QP3XHQG+33"
-            },
-            "types": ["street_address"]
-          }
-        ],
-        "status": "OK"
-      }
+      "location": { "lat": 24.9877377, "lng": 121.5752134 }
     },
     {
       "店名": "吉野家",
       "地址": "台北市文山區指南路二段103號",
       "評價": "態度不好、品質不穩、環境衛生不好、貴又難吃",
-      "geocode": {
-        "results": [
-          {
-            "address_components": [
-              {
-                "long_name": "103",
-                "short_name": "103",
-                "types": ["street_number"]
-              },
-              {
-                "long_name": "Section 2, Zhinan Road",
-                "short_name": "Section 2, Zhinan Road",
-                "types": ["route"]
-              },
-              {
-                "long_name": "Muzha",
-                "short_name": "Muzha",
-                "types": ["neighborhood", "political"]
-              },
-              {
-                "long_name": "Wenshan District",
-                "short_name": "Wenshan District",
-                "types": ["administrative_area_level_3", "political"]
-              },
-              {
-                "long_name": "Taipei City",
-                "short_name": "Taipei City",
-                "types": ["administrative_area_level_1", "political"]
-              },
-              {
-                "long_name": "Taiwan",
-                "short_name": "TW",
-                "types": ["country", "political"]
-              },
-              {
-                "long_name": "116",
-                "short_name": "116",
-                "types": ["postal_code"]
-              }
-            ],
-            "formatted_address": "No. 103, Section 2, Zhinan Road, Wenshan District, Taipei City, Taiwan 116",
-            "geometry": {
-              "location": { "lat": 24.9877403, "lng": 121.5756116 },
-              "location_type": "ROOFTOP",
-              "viewport": {
-                "northeast": {
-                  "lat": 24.9890892802915,
-                  "lng": 121.5769605802915
-                },
-                "southwest": {
-                  "lat": 24.9863913197085,
-                  "lng": 121.5742626197085
-                }
-              }
-            },
-            "place_id": "ChIJufVg6nuqQjQR7J-P450vyqw",
-            "plus_code": {
-              "compound_code": "XHQG+36 Wenshan District, 台北市 Taiwan",
-              "global_code": "7QP3XHQG+36"
-            },
-            "types": ["street_address"]
-          }
-        ],
-        "status": "OK"
-      }
+      "location": { "lat": 24.9877403, "lng": 121.5756116 }
     },
     {
       "店名": "玉口香扁食園 ",
       "地址": "台北市文山區木新路二段160號(後山)",
       "評價": "衛生不佳、態度不好、味道不太好、CP值低",
-      "geocode": {
-        "results": [
-          {
-            "address_components": [
-              {
-                "long_name": "160",
-                "short_name": "160",
-                "types": ["street_number"]
-              },
-              {
-                "long_name": "Section 2, Muxin Road",
-                "short_name": "Section 2, Muxin Road",
-                "types": ["route"]
-              },
-              {
-                "long_name": "Muzha",
-                "short_name": "Muzha",
-                "types": ["neighborhood", "political"]
-              },
-              {
-                "long_name": "Wenshan District",
-                "short_name": "Wenshan District",
-                "types": ["administrative_area_level_3", "political"]
-              },
-              {
-                "long_name": "Taipei City",
-                "short_name": "Taipei City",
-                "types": ["administrative_area_level_1", "political"]
-              },
-              {
-                "long_name": "Taiwan",
-                "short_name": "TW",
-                "types": ["country", "political"]
-              },
-              {
-                "long_name": "116",
-                "short_name": "116",
-                "types": ["postal_code"]
-              }
-            ],
-            "formatted_address": "No. 160, Section 2, Muxin Road, Wenshan District, Taipei City, Taiwan 116",
-            "geometry": {
-              "location": { "lat": 24.984065, "lng": 121.568646 },
-              "location_type": "ROOFTOP",
-              "viewport": {
-                "northeast": {
-                  "lat": 24.9854139802915,
-                  "lng": 121.5699949802915
-                },
-                "southwest": {
-                  "lat": 24.98271601970849,
-                  "lng": 121.5672970197085
-                }
-              }
-            },
-            "place_id": "ChIJ66C2y3eqQjQRTJvSegI7-6g",
-            "plus_code": {
-              "compound_code": "XHM9+JF Wenshan District, 台北市 Taiwan",
-              "global_code": "7QP3XHM9+JF"
-            },
-            "types": ["street_address"]
-          }
-        ],
-        "status": "OK"
-      }
+      "location": { "lat": 24.984065, "lng": 121.568646 }
     },
     {
       "店名": "美味派",
       "地址": "台北市文山區指南路二段44號",
       "評價": "態度差、動作慢、忘單、鐵板麵不好吃",
-      "geocode": {
-        "results": [
-          {
-            "address_components": [
-              {
-                "long_name": "44",
-                "short_name": "44",
-                "types": ["street_number"]
-              },
-              {
-                "long_name": "Section 2, Zhinan Road",
-                "short_name": "Section 2, Zhinan Road",
-                "types": ["route"]
-              },
-              {
-                "long_name": "Muzha",
-                "short_name": "Muzha",
-                "types": ["neighborhood", "political"]
-              },
-              {
-                "long_name": "Wenshan District",
-                "short_name": "Wenshan District",
-                "types": ["administrative_area_level_3", "political"]
-              },
-              {
-                "long_name": "Taipei City",
-                "short_name": "Taipei City",
-                "types": ["administrative_area_level_1", "political"]
-              },
-              {
-                "long_name": "Taiwan",
-                "short_name": "TW",
-                "types": ["country", "political"]
-              },
-              {
-                "long_name": "116",
-                "short_name": "116",
-                "types": ["postal_code"]
-              }
-            ],
-            "formatted_address": "No. 44, Section 2, Zhinan Road, Wenshan District, Taipei City, Taiwan 116",
-            "geometry": {
-              "location": { "lat": 24.9876994, "lng": 121.5751754 },
-              "location_type": "ROOFTOP",
-              "viewport": {
-                "northeast": {
-                  "lat": 24.9890483802915,
-                  "lng": 121.5765243802915
-                },
-                "southwest": {
-                  "lat": 24.9863504197085,
-                  "lng": 121.5738264197085
-                }
-              }
-            },
-            "place_id": "ChIJ35Hbw3uqQjQRx6f4kS6hwRY",
-            "plus_code": {
-              "compound_code": "XHQG+33 Wenshan District, 台北市 Taiwan",
-              "global_code": "7QP3XHQG+33"
-            },
-            "types": ["street_address"]
-          }
-        ],
-        "status": "OK"
-      }
+      "location": { "lat": 24.9876994, "lng": 121.5751754 }
     },
     {
       "店名": "殺人魔王燒臘",
       "地址": "116台北市文山區指南路二段45巷2弄1號",
       "評價": "衛生不好、飯菜都是冷的",
-      "geocode": {
-        "results": [
-          {
-            "address_components": [
-              {
-                "long_name": "1",
-                "short_name": "1",
-                "types": ["street_number"]
-              },
-              {
-                "long_name": "Alley 2, Lane 45, Section 2, Zhinan Road",
-                "short_name": "Alley 2, Lane 45, Section 2, Zhinan Road",
-                "types": ["route"]
-              },
-              {
-                "long_name": "Muzha",
-                "short_name": "Muzha",
-                "types": ["neighborhood", "political"]
-              },
-              {
-                "long_name": "Wenshan District",
-                "short_name": "Wenshan District",
-                "types": ["administrative_area_level_3", "political"]
-              },
-              {
-                "long_name": "Taipei City",
-                "short_name": "Taipei City",
-                "types": ["administrative_area_level_1", "political"]
-              },
-              {
-                "long_name": "Taiwan",
-                "short_name": "TW",
-                "types": ["country", "political"]
-              },
-              {
-                "long_name": "116",
-                "short_name": "116",
-                "types": ["postal_code"]
-              }
-            ],
-            "formatted_address": "No. 1, Alley 2, Lane 45, Section 2, Zhinan Road, Wenshan District, Taipei City, Taiwan 116",
-            "geometry": {
-              "location": { "lat": 24.9882559, "lng": 121.57443 },
-              "location_type": "ROOFTOP",
-              "viewport": {
-                "northeast": {
-                  "lat": 24.9896048802915,
-                  "lng": 121.5757789802915
-                },
-                "southwest": {
-                  "lat": 24.9869069197085,
-                  "lng": 121.5730810197085
-                }
-              }
-            },
-            "place_id": "ChIJDSbktXuqQjQRfhdZvI4JcZs",
-            "plus_code": {
-              "compound_code": "XHQF+8Q Wenshan District, 台北市 Taiwan",
-              "global_code": "7QP3XHQF+8Q"
-            },
-            "types": ["street_address"]
-          }
-        ],
-        "status": "OK"
-      }
+      "location": { "lat": 24.9882559, "lng": 121.57443 }
     }
   ],
   "宵夜": [
@@ -359,71 +39,7 @@
       "平均價位": "$80",
       "評價": "3.8",
       "推薦": "韭菜盒子、小籠包、蛋餅",
-      "geocode": {
-        "results": [
-          {
-            "address_components": [
-              {
-                "long_name": "167",
-                "short_name": "167",
-                "types": ["street_number"]
-              },
-              {
-                "long_name": "Section 2, Muxin Road",
-                "short_name": "Section 2, Muxin Road",
-                "types": ["route"]
-              },
-              {
-                "long_name": "Muzha",
-                "short_name": "Muzha",
-                "types": ["neighborhood", "political"]
-              },
-              {
-                "long_name": "Wenshan District",
-                "short_name": "Wenshan District",
-                "types": ["administrative_area_level_3", "political"]
-              },
-              {
-                "long_name": "Taipei City",
-                "short_name": "Taipei City",
-                "types": ["administrative_area_level_1", "political"]
-              },
-              {
-                "long_name": "Taiwan",
-                "short_name": "TW",
-                "types": ["country", "political"]
-              },
-              {
-                "long_name": "116",
-                "short_name": "116",
-                "types": ["postal_code"]
-              }
-            ],
-            "formatted_address": "No. 167, Section 2, Muxin Road, Wenshan District, Taipei City, Taiwan 116",
-            "geometry": {
-              "location": { "lat": 24.9837794, "lng": 121.5686798 },
-              "location_type": "ROOFTOP",
-              "viewport": {
-                "northeast": {
-                  "lat": 24.9851283802915,
-                  "lng": 121.5700287802915
-                },
-                "southwest": {
-                  "lat": 24.9824304197085,
-                  "lng": 121.5673308197085
-                }
-              }
-            },
-            "place_id": "ChIJ9WE4zHeqQjQREJHXozro6_8",
-            "plus_code": {
-              "compound_code": "XHM9+GF Wenshan District, 台北市 Taiwan",
-              "global_code": "7QP3XHM9+GF"
-            },
-            "types": ["street_address"]
-          }
-        ],
-        "status": "OK"
-      }
+      "location": { "lat": 24.9837794, "lng": 121.5686798 }
     },
     {
       "店名": "木柵米粉湯",
@@ -432,71 +48,7 @@
       "平均價位": "$60",
       "評價": "3.9",
       "推薦": "米粉湯、蝦仁煎、魯肉販",
-      "geocode": {
-        "results": [
-          {
-            "address_components": [
-              {
-                "long_name": "248",
-                "short_name": "248",
-                "types": ["street_number"]
-              },
-              {
-                "long_name": "Section 2, Muxin Road",
-                "short_name": "Section 2, Muxin Road",
-                "types": ["route"]
-              },
-              {
-                "long_name": "Muzha",
-                "short_name": "Muzha",
-                "types": ["neighborhood", "political"]
-              },
-              {
-                "long_name": "Wenshan District",
-                "short_name": "Wenshan District",
-                "types": ["administrative_area_level_3", "political"]
-              },
-              {
-                "long_name": "Taipei City",
-                "short_name": "Taipei City",
-                "types": ["administrative_area_level_1", "political"]
-              },
-              {
-                "long_name": "Taiwan",
-                "short_name": "TW",
-                "types": ["country", "political"]
-              },
-              {
-                "long_name": "116",
-                "short_name": "116",
-                "types": ["postal_code"]
-              }
-            ],
-            "formatted_address": "No. 248, Section 2, Muxin Road, Wenshan District, Taipei City, Taiwan 116",
-            "geometry": {
-              "location": { "lat": 24.9832893, "lng": 121.5664373 },
-              "location_type": "ROOFTOP",
-              "viewport": {
-                "northeast": {
-                  "lat": 24.9846382802915,
-                  "lng": 121.5677862802915
-                },
-                "southwest": {
-                  "lat": 24.9819403197085,
-                  "lng": 121.5650883197085
-                }
-              }
-            },
-            "place_id": "ChIJPwwAp9gBaDQRhFBdMEOVsuI",
-            "plus_code": {
-              "compound_code": "XHM8+8H Wenshan District, 台北市 Taiwan",
-              "global_code": "7QP3XHM8+8H"
-            },
-            "types": ["street_address"]
-          }
-        ],
-        "status": "OK"
-      }
+      "location": { "lat": 24.9832893, "lng": 121.5664373 }
     },
     {
       "店名": "永和豆漿大王",
@@ -505,71 +57,7 @@
       "平均價位": "$60",
       "評價": "3.9",
       "推薦": "蛋餅夾油條, 飯糰豬排蛋, 燒餅油條",
-      "geocode": {
-        "results": [
-          {
-            "address_components": [
-              {
-                "long_name": "293",
-                "short_name": "293",
-                "types": ["street_number"]
-              },
-              {
-                "long_name": "Section 2, Muxin Road",
-                "short_name": "Section 2, Muxin Road",
-                "types": ["route"]
-              },
-              {
-                "long_name": "Muzha",
-                "short_name": "Muzha",
-                "types": ["neighborhood", "political"]
-              },
-              {
-                "long_name": "Wenshan District",
-                "short_name": "Wenshan District",
-                "types": ["administrative_area_level_3", "political"]
-              },
-              {
-                "long_name": "Taipei City",
-                "short_name": "Taipei City",
-                "types": ["administrative_area_level_1", "political"]
-              },
-              {
-                "long_name": "Taiwan",
-                "short_name": "TW",
-                "types": ["country", "political"]
-              },
-              {
-                "long_name": "116",
-                "short_name": "116",
-                "types": ["postal_code"]
-              }
-            ],
-            "formatted_address": "No. 293, Section 2, Muxin Road, Wenshan District, Taipei City, Taiwan 116",
-            "geometry": {
-              "location": { "lat": 24.9827027, "lng": 121.5655409 },
-              "location_type": "ROOFTOP",
-              "viewport": {
-                "northeast": {
-                  "lat": 24.9840516802915,
-                  "lng": 121.5668898802915
-                },
-                "southwest": {
-                  "lat": 24.98135371970849,
-                  "lng": 121.5641919197085
-                }
-              }
-            },
-            "place_id": "ChIJMT6tTN8BaDQRvZIT23jZcCc",
-            "plus_code": {
-              "compound_code": "XHM8+36 Wenshan District, 台北市 Taiwan",
-              "global_code": "7QP3XHM8+36"
-            },
-            "types": ["street_address"]
-          }
-        ],
-        "status": "OK"
-      }
+      "location": { "lat": 24.9827027, "lng": 121.5655409 }
     },
     {
       "店名": "串霸",
@@ -578,71 +66,7 @@
       "平均價位": "$200",
       "評價": "3.9",
       "推薦": "肉捲、高麗菜、糯米腸",
-      "geocode": {
-        "results": [
-          {
-            "address_components": [
-              {
-                "long_name": "18",
-                "short_name": "18",
-                "types": ["street_number"]
-              },
-              {
-                "long_name": "Section 2, Muxin Road",
-                "short_name": "Section 2, Muxin Road",
-                "types": ["route"]
-              },
-              {
-                "long_name": "Muzha",
-                "short_name": "Muzha",
-                "types": ["neighborhood", "political"]
-              },
-              {
-                "long_name": "Wenshan District",
-                "short_name": "Wenshan District",
-                "types": ["administrative_area_level_3", "political"]
-              },
-              {
-                "long_name": "Taipei City",
-                "short_name": "Taipei City",
-                "types": ["administrative_area_level_1", "political"]
-              },
-              {
-                "long_name": "Taiwan",
-                "short_name": "TW",
-                "types": ["country", "political"]
-              },
-              {
-                "long_name": "116",
-                "short_name": "116",
-                "types": ["postal_code"]
-              }
-            ],
-            "formatted_address": "No. 18, Section 2, Muxin Road, Wenshan District, Taipei City, Taiwan 116",
-            "geometry": {
-              "location": { "lat": 24.98683, "lng": 121.570517 },
-              "location_type": "ROOFTOP",
-              "viewport": {
-                "northeast": {
-                  "lat": 24.9881789802915,
-                  "lng": 121.5718659802915
-                },
-                "southwest": {
-                  "lat": 24.98548101970849,
-                  "lng": 121.5691680197085
-                }
-              }
-            },
-            "place_id": "ChIJU9utRHeqQjQRGgxwjISZfVY",
-            "plus_code": {
-              "compound_code": "XHPC+P6 Wenshan District, 台北市 Taiwan",
-              "global_code": "7QP3XHPC+P6"
-            },
-            "types": ["street_address"]
-          }
-        ],
-        "status": "OK"
-      }
+      "location": { "lat": 24.98683, "lng": 121.570517 }
     },
     {
       "店名": "政大烤場",
@@ -651,71 +75,7 @@
       "平均價位": "$125",
       "評價": "4.2",
       "推薦": "豬肉串、牛肉串、四季豆",
-      "geocode": {
-        "results": [
-          {
-            "address_components": [
-              {
-                "long_name": "137",
-                "short_name": "137",
-                "types": ["street_number"]
-              },
-              {
-                "long_name": "Section 2, Zhinan Road",
-                "short_name": "Section 2, Zhinan Road",
-                "types": ["route"]
-              },
-              {
-                "long_name": "Muzha",
-                "short_name": "Muzha",
-                "types": ["neighborhood", "political"]
-              },
-              {
-                "long_name": "Wenshan District",
-                "short_name": "Wenshan District",
-                "types": ["administrative_area_level_3", "political"]
-              },
-              {
-                "long_name": "Taipei City",
-                "short_name": "Taipei City",
-                "types": ["administrative_area_level_1", "political"]
-              },
-              {
-                "long_name": "Taiwan",
-                "short_name": "TW",
-                "types": ["country", "political"]
-              },
-              {
-                "long_name": "116",
-                "short_name": "116",
-                "types": ["postal_code"]
-              }
-            ],
-            "formatted_address": "No. 137, Section 2, Zhinan Road, Wenshan District, Taipei City, Taiwan 116",
-            "geometry": {
-              "location": { "lat": 24.9875338, "lng": 121.5770327 },
-              "location_type": "ROOFTOP",
-              "viewport": {
-                "northeast": {
-                  "lat": 24.9888827802915,
-                  "lng": 121.5783816802915
-                },
-                "southwest": {
-                  "lat": 24.9861848197085,
-                  "lng": 121.5756837197085
-                }
-              }
-            },
-            "place_id": "ChIJYbC5CnyqQjQRA1BBGDDur-Y",
-            "plus_code": {
-              "compound_code": "XHQG+2R Wenshan District, 台北市 Taiwan",
-              "global_code": "7QP3XHQG+2R"
-            },
-            "types": ["street_address"]
-          }
-        ],
-        "status": "OK"
-      }
+      "location": { "lat": 24.9875338, "lng": 121.5770327 }
     }
   ],
   "點心": [
@@ -726,71 +86,7 @@
       "平均價位": "$55",
       "評價": "4.1",
       "推薦": "蜂蜜鮮奶油",
-      "geocode": {
-        "results": [
-          {
-            "address_components": [
-              {
-                "long_name": "97",
-                "short_name": "97",
-                "types": ["street_number"]
-              },
-              {
-                "long_name": "Section 2, Zhinan Road",
-                "short_name": "Section 2, Zhinan Road",
-                "types": ["route"]
-              },
-              {
-                "long_name": "Muzha",
-                "short_name": "Muzha",
-                "types": ["neighborhood", "political"]
-              },
-              {
-                "long_name": "Wenshan District",
-                "short_name": "Wenshan District",
-                "types": ["administrative_area_level_3", "political"]
-              },
-              {
-                "long_name": "Taipei City",
-                "short_name": "Taipei City",
-                "types": ["administrative_area_level_1", "political"]
-              },
-              {
-                "long_name": "Taiwan",
-                "short_name": "TW",
-                "types": ["country", "political"]
-              },
-              {
-                "long_name": "116",
-                "short_name": "116",
-                "types": ["postal_code"]
-              }
-            ],
-            "formatted_address": "No. 97, Section 2, Zhinan Road, Wenshan District, Taipei City, Taiwan 116",
-            "geometry": {
-              "location": { "lat": 24.9878194, "lng": 121.5754918 },
-              "location_type": "ROOFTOP",
-              "viewport": {
-                "northeast": {
-                  "lat": 24.9891683802915,
-                  "lng": 121.5768407802915
-                },
-                "southwest": {
-                  "lat": 24.9864704197085,
-                  "lng": 121.5741428197085
-                }
-              }
-            },
-            "place_id": "ChIJy34vwHuqQjQR3hxS9hf-QII",
-            "plus_code": {
-              "compound_code": "XHQG+45 Wenshan District, 台北市 Taiwan",
-              "global_code": "7QP3XHQG+45"
-            },
-            "types": ["street_address"]
-          }
-        ],
-        "status": "OK"
-      }
+      "location": { "lat": 24.9878194, "lng": 121.5754918 }
     },
     {
       "店名": "徠集手工甜點坊",
@@ -799,71 +95,7 @@
       "平均價位": "$55",
       "評價": "4.9",
       "推薦": "伯爵奶茶生乳酪、烤布蕾",
-      "geocode": {
-        "results": [
-          {
-            "address_components": [
-              {
-                "long_name": "1",
-                "short_name": "1",
-                "types": ["street_number"]
-              },
-              {
-                "long_name": "Wanshou Road",
-                "short_name": "Wanshou Road",
-                "types": ["route"]
-              },
-              {
-                "long_name": "Muzha",
-                "short_name": "Muzha",
-                "types": ["neighborhood", "political"]
-              },
-              {
-                "long_name": "Wenshan District",
-                "short_name": "Wenshan District",
-                "types": ["administrative_area_level_3", "political"]
-              },
-              {
-                "long_name": "Taipei City",
-                "short_name": "Taipei City",
-                "types": ["administrative_area_level_1", "political"]
-              },
-              {
-                "long_name": "Taiwan",
-                "short_name": "TW",
-                "types": ["country", "political"]
-              },
-              {
-                "long_name": "116",
-                "short_name": "116",
-                "types": ["postal_code"]
-              }
-            ],
-            "formatted_address": "No. 1, Wanshou Road, Wenshan District, Taipei City, Taiwan 116",
-            "geometry": {
-              "location": { "lat": 24.9878522, "lng": 121.5757327 },
-              "location_type": "ROOFTOP",
-              "viewport": {
-                "northeast": {
-                  "lat": 24.9892011802915,
-                  "lng": 121.5770816802915
-                },
-                "southwest": {
-                  "lat": 24.9865032197085,
-                  "lng": 121.5743837197085
-                }
-              }
-            },
-            "place_id": "ChIJ5Ycu63uqQjQRGuzP-xAH7OI",
-            "plus_code": {
-              "compound_code": "XHQG+47 Wenshan District, 台北市 Taiwan",
-              "global_code": "7QP3XHQG+47"
-            },
-            "types": ["street_address"]
-          }
-        ],
-        "status": "OK"
-      }
+      "location": { "lat": 24.9878522, "lng": 121.5757327 }
     },
     {
       "店名": "TDH 貓茶町下午茶",
@@ -872,71 +104,7 @@
       "平均價位": "$80",
       "評價": "4.1",
       "推薦": "鐵觀音舒芙蕾、泡芙",
-      "geocode": {
-        "results": [
-          {
-            "address_components": [
-              {
-                "long_name": "117",
-                "short_name": "117",
-                "types": ["street_number"]
-              },
-              {
-                "long_name": "Baoyi Road",
-                "short_name": "Baoyi Road",
-                "types": ["route"]
-              },
-              {
-                "long_name": "Muzha",
-                "short_name": "Muzha",
-                "types": ["neighborhood", "political"]
-              },
-              {
-                "long_name": "Wenshan District",
-                "short_name": "Wenshan District",
-                "types": ["administrative_area_level_3", "political"]
-              },
-              {
-                "long_name": "Taipei City",
-                "short_name": "Taipei City",
-                "types": ["administrative_area_level_1", "political"]
-              },
-              {
-                "long_name": "Taiwan",
-                "short_name": "TW",
-                "types": ["country", "political"]
-              },
-              {
-                "long_name": "116",
-                "short_name": "116",
-                "types": ["postal_code"]
-              }
-            ],
-            "formatted_address": "No. 117, Baoyi Road, Wenshan District, Taipei City, Taiwan 116",
-            "geometry": {
-              "location": { "lat": 24.9856608, "lng": 121.5676372 },
-              "location_type": "ROOFTOP",
-              "viewport": {
-                "northeast": {
-                  "lat": 24.9870097802915,
-                  "lng": 121.5689861802915
-                },
-                "southwest": {
-                  "lat": 24.98431181970849,
-                  "lng": 121.5662882197085
-                }
-              }
-            },
-            "place_id": "ChIJ_WUyWHaqQjQRlT-ZMxggM_E",
-            "plus_code": {
-              "compound_code": "XHP9+73 Wenshan District, 台北市 Taiwan",
-              "global_code": "7QP3XHP9+73"
-            },
-            "types": ["street_address"]
-          }
-        ],
-        "status": "OK"
-      }
+      "location": { "lat": 24.9856608, "lng": 121.5676372 }
     },
     {
       "店名": "小公寓Apt.cafe",
@@ -945,68 +113,7 @@
       "平均價位": "$205",
       "評價": "4.3",
       "推薦": "布朗尼+冰淇淋",
-      "geocode": {
-        "results": [
-          {
-            "address_components": [
-              { "long_name": "2", "short_name": "2", "types": ["subpremise"] },
-              {
-                "long_name": "56",
-                "short_name": "56",
-                "types": ["street_number"]
-              },
-              {
-                "long_name": "Section 2, Zhinan Road",
-                "short_name": "Section 2, Zhinan Road",
-                "types": ["route"]
-              },
-              {
-                "long_name": "Muzha",
-                "short_name": "Muzha",
-                "types": ["neighborhood", "political"]
-              },
-              {
-                "long_name": "Wenshan District",
-                "short_name": "Wenshan District",
-                "types": ["administrative_area_level_3", "political"]
-              },
-              {
-                "long_name": "Taipei City",
-                "short_name": "Taipei City",
-                "types": ["administrative_area_level_1", "political"]
-              },
-              {
-                "long_name": "Taiwan",
-                "short_name": "TW",
-                "types": ["country", "political"]
-              },
-              {
-                "long_name": "116",
-                "short_name": "116",
-                "types": ["postal_code"]
-              }
-            ],
-            "formatted_address": "2, No. 56, Section 2, Zhinan Road, Wenshan District, Taipei City, Taiwan 116",
-            "geometry": {
-              "location": { "lat": 24.9876087, "lng": 121.5754459 },
-              "location_type": "ROOFTOP",
-              "viewport": {
-                "northeast": {
-                  "lat": 24.9889576802915,
-                  "lng": 121.5767948802915
-                },
-                "southwest": {
-                  "lat": 24.9862597197085,
-                  "lng": 121.5740969197085
-                }
-              }
-            },
-            "place_id": "EkwyLCBOby4gNTYsIFNlY3Rpb24gMiwgWmhpbmFuIFJvYWQsIFdlbnNoYW4gRGlzdHJpY3QsIFRhaXBlaSBDaXR5LCBUYWl3YW4gMTE2Ih0aGwoWChQKEgk52vXpe6pCNBFUWtI3Eeg04RIBMg",
-            "types": ["subpremise"]
-          }
-        ],
-        "status": "OK"
-      }
+      "location": { "lat": 24.9876087, "lng": 121.5754459 }
     },
     {
       "店名": "木箱豆花小攤車",
@@ -1015,71 +122,7 @@
       "平均價位": "$40",
       "評價": "4.7",
       "推薦": "粉圓、粉粿",
-      "geocode": {
-        "results": [
-          {
-            "address_components": [
-              {
-                "long_name": "87",
-                "short_name": "87",
-                "types": ["street_number"]
-              },
-              {
-                "long_name": "Baoyi Road",
-                "short_name": "Baoyi Road",
-                "types": ["route"]
-              },
-              {
-                "long_name": "Muzha",
-                "short_name": "Muzha",
-                "types": ["neighborhood", "political"]
-              },
-              {
-                "long_name": "Wenshan District",
-                "short_name": "Wenshan District",
-                "types": ["administrative_area_level_3", "political"]
-              },
-              {
-                "long_name": "Taipei City",
-                "short_name": "Taipei City",
-                "types": ["administrative_area_level_1", "political"]
-              },
-              {
-                "long_name": "Taiwan",
-                "short_name": "TW",
-                "types": ["country", "political"]
-              },
-              {
-                "long_name": "116",
-                "short_name": "116",
-                "types": ["postal_code"]
-              }
-            ],
-            "formatted_address": "No. 87, Baoyi Road, Wenshan District, Taipei City, Taiwan 116",
-            "geometry": {
-              "location": { "lat": 24.986738, "lng": 121.568394 },
-              "location_type": "ROOFTOP",
-              "viewport": {
-                "northeast": {
-                  "lat": 24.9880869802915,
-                  "lng": 121.5697429802915
-                },
-                "southwest": {
-                  "lat": 24.9853890197085,
-                  "lng": 121.5670450197085
-                }
-              }
-            },
-            "place_id": "ChIJcaXY4XaqQjQRs_OPzq0FJQ4",
-            "plus_code": {
-              "compound_code": "XHP9+M9 Wenshan District, 台北市 Taiwan",
-              "global_code": "7QP3XHP9+M9"
-            },
-            "types": ["street_address"]
-          }
-        ],
-        "status": "OK"
-      }
+      "location": { "lat": 24.986738, "lng": 121.568394 }
     }
   ],
   "異國料理": [
@@ -1089,68 +132,7 @@
       "營業時間": "11:30–22:00",
       "評價": "4.3",
       "推薦": "熔岩花生醬牛肉漢堡",
-      "geocode": {
-        "results": [
-          {
-            "address_components": [
-              { "long_name": "1", "short_name": "1", "types": ["subpremise"] },
-              {
-                "long_name": "19",
-                "short_name": "19",
-                "types": ["street_number"]
-              },
-              {
-                "long_name": "Wanshou Road",
-                "short_name": "Wanshou Road",
-                "types": ["route"]
-              },
-              {
-                "long_name": "Muzha",
-                "short_name": "Muzha",
-                "types": ["neighborhood", "political"]
-              },
-              {
-                "long_name": "Wenshan District",
-                "short_name": "Wenshan District",
-                "types": ["administrative_area_level_3", "political"]
-              },
-              {
-                "long_name": "Taipei City",
-                "short_name": "Taipei City",
-                "types": ["administrative_area_level_1", "political"]
-              },
-              {
-                "long_name": "Taiwan",
-                "short_name": "TW",
-                "types": ["country", "political"]
-              },
-              {
-                "long_name": "116",
-                "short_name": "116",
-                "types": ["postal_code"]
-              }
-            ],
-            "formatted_address": "1, No. 19, Wanshou Road, Wenshan District, Taipei City, Taiwan 116",
-            "geometry": {
-              "location": { "lat": 24.9882457, "lng": 121.5760434 },
-              "location_type": "ROOFTOP",
-              "viewport": {
-                "northeast": {
-                  "lat": 24.9895946802915,
-                  "lng": 121.5773923802915
-                },
-                "southwest": {
-                  "lat": 24.9868967197085,
-                  "lng": 121.5746944197085
-                }
-              }
-            },
-            "place_id": "EkIxLCBOby4gMTksIFdhbnNob3UgUm9hZCwgV2Vuc2hhbiBEaXN0cmljdCwgVGFpcGVpIENpdHksIFRhaXdhbiAxMTYiHRobChYKFAoSCemQeZF7qkI0EbXE1nf5XoOXEgEx",
-            "types": ["subpremise"]
-          }
-        ],
-        "status": "OK"
-      }
+      "location": { "lat": 24.9882457, "lng": 121.5760434 }
     },
     {
       "店名": "滇味廚房",
@@ -1158,71 +140,7 @@
       "營業時間": "11:00–21:00",
       "評價": "4",
       "推薦": "過橋米線、粑粑絲",
-      "geocode": {
-        "results": [
-          {
-            "address_components": [
-              {
-                "long_name": "48",
-                "short_name": "48",
-                "types": ["street_number"]
-              },
-              {
-                "long_name": "Section 2, Zhinan Road",
-                "short_name": "Section 2, Zhinan Road",
-                "types": ["route"]
-              },
-              {
-                "long_name": "Muzha",
-                "short_name": "Muzha",
-                "types": ["neighborhood", "political"]
-              },
-              {
-                "long_name": "Wenshan District",
-                "short_name": "Wenshan District",
-                "types": ["administrative_area_level_3", "political"]
-              },
-              {
-                "long_name": "Taipei City",
-                "short_name": "Taipei City",
-                "types": ["administrative_area_level_1", "political"]
-              },
-              {
-                "long_name": "Taiwan",
-                "short_name": "TW",
-                "types": ["country", "political"]
-              },
-              {
-                "long_name": "116",
-                "short_name": "116",
-                "types": ["postal_code"]
-              }
-            ],
-            "formatted_address": "No. 48, Section 2, Zhinan Road, Wenshan District, Taipei City, Taiwan 116",
-            "geometry": {
-              "location": { "lat": 24.9877122, "lng": 121.5752569 },
-              "location_type": "ROOFTOP",
-              "viewport": {
-                "northeast": {
-                  "lat": 24.9890611802915,
-                  "lng": 121.5766058802915
-                },
-                "southwest": {
-                  "lat": 24.9863632197085,
-                  "lng": 121.5739079197085
-                }
-              }
-            },
-            "place_id": "ChIJB-wmwnuqQjQRpQZEucTRHcw",
-            "plus_code": {
-              "compound_code": "XHQG+34 Wenshan District, 台北市 Taiwan",
-              "global_code": "7QP3XHQG+34"
-            },
-            "types": ["street_address"]
-          }
-        ],
-        "status": "OK"
-      }
+      "location": { "lat": 24.9877122, "lng": 121.5752569 }
     },
     {
       "店名": "小曼谷滇泰料理",
@@ -1230,71 +148,7 @@
       "營業時間": "11:30–14:00 17:00–21:30(週三公休)",
       "評價": "4.1",
       "推薦": "椒麻雞、月亮蝦餅",
-      "geocode": {
-        "results": [
-          {
-            "address_components": [
-              {
-                "long_name": "19",
-                "short_name": "19",
-                "types": ["street_number"]
-              },
-              {
-                "long_name": "Section 2, Zhinan Road",
-                "short_name": "Section 2, Zhinan Road",
-                "types": ["route"]
-              },
-              {
-                "long_name": "Muzha",
-                "short_name": "Muzha",
-                "types": ["neighborhood", "political"]
-              },
-              {
-                "long_name": "Wenshan District",
-                "short_name": "Wenshan District",
-                "types": ["administrative_area_level_3", "political"]
-              },
-              {
-                "long_name": "Taipei City",
-                "short_name": "Taipei City",
-                "types": ["administrative_area_level_1", "political"]
-              },
-              {
-                "long_name": "Taiwan",
-                "short_name": "TW",
-                "types": ["country", "political"]
-              },
-              {
-                "long_name": "116",
-                "short_name": "116",
-                "types": ["postal_code"]
-              }
-            ],
-            "formatted_address": "No. 19, Section 2, Zhinan Road, Wenshan District, Taipei City, Taiwan 116",
-            "geometry": {
-              "location": { "lat": 24.988301, "lng": 121.573542 },
-              "location_type": "ROOFTOP",
-              "viewport": {
-                "northeast": {
-                  "lat": 24.9896499802915,
-                  "lng": 121.5748909802915
-                },
-                "southwest": {
-                  "lat": 24.9869520197085,
-                  "lng": 121.5721930197085
-                }
-              }
-            },
-            "place_id": "ChIJfbS2N3qqQjQRby-yTETaq0s",
-            "plus_code": {
-              "compound_code": "XHQF+8C Wenshan District, 台北市 Taiwan",
-              "global_code": "7QP3XHQF+8C"
-            },
-            "types": ["street_address"]
-          }
-        ],
-        "status": "OK"
-      }
+      "location": { "lat": 24.988301, "lng": 121.573542 }
     },
     {
       "店名": "波波恰恰大馬風味餐",
@@ -1302,71 +156,7 @@
       "營業時間": "11:00–20:00(週六公休')",
       "評價": "4",
       "推薦": "厚片豬排飯、味曾烤雞腿",
-      "geocode": {
-        "results": [
-          {
-            "address_components": [
-              {
-                "long_name": "48",
-                "short_name": "48",
-                "types": ["street_number"]
-              },
-              {
-                "long_name": "Section 2, Zhinan Road",
-                "short_name": "Section 2, Zhinan Road",
-                "types": ["route"]
-              },
-              {
-                "long_name": "Muzha",
-                "short_name": "Muzha",
-                "types": ["neighborhood", "political"]
-              },
-              {
-                "long_name": "Wenshan District",
-                "short_name": "Wenshan District",
-                "types": ["administrative_area_level_3", "political"]
-              },
-              {
-                "long_name": "Taipei City",
-                "short_name": "Taipei City",
-                "types": ["administrative_area_level_1", "political"]
-              },
-              {
-                "long_name": "Taiwan",
-                "short_name": "TW",
-                "types": ["country", "political"]
-              },
-              {
-                "long_name": "116",
-                "short_name": "116",
-                "types": ["postal_code"]
-              }
-            ],
-            "formatted_address": "No. 48, Section 2, Zhinan Road, Wenshan District, Taipei City, Taiwan 116",
-            "geometry": {
-              "location": { "lat": 24.9877122, "lng": 121.5752569 },
-              "location_type": "ROOFTOP",
-              "viewport": {
-                "northeast": {
-                  "lat": 24.9890611802915,
-                  "lng": 121.5766058802915
-                },
-                "southwest": {
-                  "lat": 24.9863632197085,
-                  "lng": 121.5739079197085
-                }
-              }
-            },
-            "place_id": "ChIJB-wmwnuqQjQRpQZEucTRHcw",
-            "plus_code": {
-              "compound_code": "XHQG+34 Wenshan District, 台北市 Taiwan",
-              "global_code": "7QP3XHQG+34"
-            },
-            "types": ["street_address"]
-          }
-        ],
-        "status": "OK"
-      }
+      "location": { "lat": 24.9877122, "lng": 121.5752569 }
     },
     {
       "店名": "樂山食堂",
@@ -1374,71 +164,7 @@
       "營業時間": "11:00–14:00 17:00–20:00 (周日公休)",
       "評價": "4.2",
       "推薦": "厚片豬排飯、味曾烤雞腿",
-      "geocode": {
-        "results": [
-          {
-            "address_components": [
-              {
-                "long_name": "26",
-                "short_name": "26",
-                "types": ["street_number"]
-              },
-              {
-                "long_name": "Section 1, Xinguang Road",
-                "short_name": "Section 1, Xinguang Road",
-                "types": ["route"]
-              },
-              {
-                "long_name": "Muzha",
-                "short_name": "Muzha",
-                "types": ["neighborhood", "political"]
-              },
-              {
-                "long_name": "Wenshan District",
-                "short_name": "Wenshan District",
-                "types": ["administrative_area_level_3", "political"]
-              },
-              {
-                "long_name": "Taipei City",
-                "short_name": "Taipei City",
-                "types": ["administrative_area_level_1", "political"]
-              },
-              {
-                "long_name": "Taiwan",
-                "short_name": "TW",
-                "types": ["country", "political"]
-              },
-              {
-                "long_name": "116",
-                "short_name": "116",
-                "types": ["postal_code"]
-              }
-            ],
-            "formatted_address": "No. 26, Section 1, Xinguang Road, Wenshan District, Taipei City, Taiwan 116",
-            "geometry": {
-              "location": { "lat": 24.989007, "lng": 121.573557 },
-              "location_type": "ROOFTOP",
-              "viewport": {
-                "northeast": {
-                  "lat": 24.9903559802915,
-                  "lng": 121.5749059802915
-                },
-                "southwest": {
-                  "lat": 24.98765801970849,
-                  "lng": 121.5722080197085
-                }
-              }
-            },
-            "place_id": "ChIJoV_MT3qqQjQRtlqK75Du0u8",
-            "plus_code": {
-              "compound_code": "XHQF+JC Wenshan District, 台北市 Taiwan",
-              "global_code": "7QP3XHQF+JC"
-            },
-            "types": ["street_address"]
-          }
-        ],
-        "status": "OK"
-      }
+      "location": { "lat": 24.989007, "lng": 121.573557 }
     }
   ],
   "中式料理": [
@@ -1449,71 +175,7 @@
       "平均價位": "$140",
       "評價": "4",
       "推薦": "排骨炒飯、蔥爆雞丁",
-      "geocode": {
-        "results": [
-          {
-            "address_components": [
-              {
-                "long_name": "57",
-                "short_name": "57",
-                "types": ["street_number"]
-              },
-              {
-                "long_name": "Section 2, Zhinan Road",
-                "short_name": "Section 2, Zhinan Road",
-                "types": ["route"]
-              },
-              {
-                "long_name": "Muzha",
-                "short_name": "Muzha",
-                "types": ["neighborhood", "political"]
-              },
-              {
-                "long_name": "Wenshan District",
-                "short_name": "Wenshan District",
-                "types": ["administrative_area_level_3", "political"]
-              },
-              {
-                "long_name": "Taipei City",
-                "short_name": "Taipei City",
-                "types": ["administrative_area_level_1", "political"]
-              },
-              {
-                "long_name": "Taiwan",
-                "short_name": "TW",
-                "types": ["country", "political"]
-              },
-              {
-                "long_name": "116",
-                "short_name": "116",
-                "types": ["postal_code"]
-              }
-            ],
-            "formatted_address": "No. 57, Section 2, Zhinan Road, Wenshan District, Taipei City, Taiwan 116",
-            "geometry": {
-              "location": { "lat": 24.9879813, "lng": 121.574567 },
-              "location_type": "ROOFTOP",
-              "viewport": {
-                "northeast": {
-                  "lat": 24.9893302802915,
-                  "lng": 121.5759159802915
-                },
-                "southwest": {
-                  "lat": 24.98663231970849,
-                  "lng": 121.5732180197085
-                }
-              }
-            },
-            "place_id": "ChIJzT0JyXuqQjQRpU5p-9AxWDA",
-            "plus_code": {
-              "compound_code": "XHQF+5R Wenshan District, 台北市 Taiwan",
-              "global_code": "7QP3XHQF+5R"
-            },
-            "types": ["street_address"]
-          }
-        ],
-        "status": "OK"
-      }
+      "location": { "lat": 24.9879813, "lng": 121.574567 }
     },
     {
       "店名": "四川飯館",
@@ -1522,68 +184,7 @@
       "平均價位": "$120",
       "評價": "4.2",
       "推薦": "椒麻里肌、宮保雞丁",
-      "geocode": {
-        "results": [
-          {
-            "address_components": [
-              { "long_name": "2", "short_name": "2", "types": ["subpremise"] },
-              {
-                "long_name": "65",
-                "short_name": "65",
-                "types": ["street_number"]
-              },
-              {
-                "long_name": "Section 2, Zhinan Road",
-                "short_name": "Section 2, Zhinan Road",
-                "types": ["route"]
-              },
-              {
-                "long_name": "Muzha",
-                "short_name": "Muzha",
-                "types": ["neighborhood", "political"]
-              },
-              {
-                "long_name": "Wenshan District",
-                "short_name": "Wenshan District",
-                "types": ["administrative_area_level_3", "political"]
-              },
-              {
-                "long_name": "Taipei City",
-                "short_name": "Taipei City",
-                "types": ["administrative_area_level_1", "political"]
-              },
-              {
-                "long_name": "Taiwan",
-                "short_name": "TW",
-                "types": ["country", "political"]
-              },
-              {
-                "long_name": "116",
-                "short_name": "116",
-                "types": ["postal_code"]
-              }
-            ],
-            "formatted_address": "2, No. 65, Section 2, Zhinan Road, Wenshan District, Taipei City, Taiwan 116",
-            "geometry": {
-              "location": { "lat": 24.9879254, "lng": 121.5747746 },
-              "location_type": "ROOFTOP",
-              "viewport": {
-                "northeast": {
-                  "lat": 24.9892743802915,
-                  "lng": 121.5761235802915
-                },
-                "southwest": {
-                  "lat": 24.9865764197085,
-                  "lng": 121.5734256197085
-                }
-              }
-            },
-            "place_id": "EkwyLCBOby4gNjUsIFNlY3Rpb24gMiwgWmhpbmFuIFJvYWQsIFdlbnNoYW4gRGlzdHJpY3QsIFRhaXBlaSBDaXR5LCBUYWl3YW4gMTE2Ih0aGwoWChQKEgn7-YPIe6pCNBGqtG8b-z1f_RIBMg",
-            "types": ["subpremise"]
-          }
-        ],
-        "status": "OK"
-      }
+      "location": { "lat": 24.9879254, "lng": 121.5747746 }
     },
     {
       "店名": "麵妃精選麵食",
@@ -1592,68 +193,7 @@
       "平均價位": "$75",
       "評價": "3.9",
       "推薦": "排骨蛋炒飯、咖哩肉丸飯",
-      "geocode": {
-        "results": [
-          {
-            "address_components": [
-              { "long_name": "1", "short_name": "1", "types": ["subpremise"] },
-              {
-                "long_name": "115",
-                "short_name": "115",
-                "types": ["street_number"]
-              },
-              {
-                "long_name": "Section 3, Muxin Road",
-                "short_name": "Section 3, Muxin Road",
-                "types": ["route"]
-              },
-              {
-                "long_name": "Muzha",
-                "short_name": "Muzha",
-                "types": ["neighborhood", "political"]
-              },
-              {
-                "long_name": "Wenshan District",
-                "short_name": "Wenshan District",
-                "types": ["administrative_area_level_3", "political"]
-              },
-              {
-                "long_name": "Taipei City",
-                "short_name": "Taipei City",
-                "types": ["administrative_area_level_1", "political"]
-              },
-              {
-                "long_name": "Taiwan",
-                "short_name": "TW",
-                "types": ["country", "political"]
-              },
-              {
-                "long_name": "116",
-                "short_name": "116",
-                "types": ["postal_code"]
-              }
-            ],
-            "formatted_address": "1, No. 115, Section 3, Muxin Road, Wenshan District, Taipei City, Taiwan 116",
-            "geometry": {
-              "location": { "lat": 24.9819454, "lng": 121.5623363 },
-              "location_type": "ROOFTOP",
-              "viewport": {
-                "northeast": {
-                  "lat": 24.9832943802915,
-                  "lng": 121.5636852802915
-                },
-                "southwest": {
-                  "lat": 24.9805964197085,
-                  "lng": 121.5609873197085
-                }
-              }
-            },
-            "place_id": "EkwxLCBOby4gMTE1LCBTZWN0aW9uIDMsIE11eGluIFJvYWQsIFdlbnNoYW4gRGlzdHJpY3QsIFRhaXBlaSBDaXR5LCBUYWl3YW4gMTE2Ih0aGwoWChQKEgkxUHms3wFoNBE1FR2InqA8ohIBMQ",
-            "types": ["subpremise"]
-          }
-        ],
-        "status": "OK"
-      }
+      "location": { "lat": 24.9819454, "lng": 121.5623363 }
     },
     {
       "店名": "私房麵",
@@ -1662,71 +202,7 @@
       "平均價位": "$70",
       "評價": "3.9",
       "推薦": "肉骨茶麵、打拋豬肉飯",
-      "geocode": {
-        "results": [
-          {
-            "address_components": [
-              {
-                "long_name": "2",
-                "short_name": "2",
-                "types": ["street_number"]
-              },
-              {
-                "long_name": "Section 2, Zhinan Road",
-                "short_name": "Section 2, Zhinan Road",
-                "types": ["route"]
-              },
-              {
-                "long_name": "Muzha",
-                "short_name": "Muzha",
-                "types": ["neighborhood", "political"]
-              },
-              {
-                "long_name": "Wenshan District",
-                "short_name": "Wenshan District",
-                "types": ["administrative_area_level_3", "political"]
-              },
-              {
-                "long_name": "Taipei City",
-                "short_name": "Taipei City",
-                "types": ["administrative_area_level_1", "political"]
-              },
-              {
-                "long_name": "Taiwan",
-                "short_name": "TW",
-                "types": ["country", "political"]
-              },
-              {
-                "long_name": "116",
-                "short_name": "116",
-                "types": ["postal_code"]
-              }
-            ],
-            "formatted_address": "No. 2, Section 2, Zhinan Road, Wenshan District, Taipei City, Taiwan 116",
-            "geometry": {
-              "location": { "lat": 24.987844, "lng": 121.574073 },
-              "location_type": "ROOFTOP",
-              "viewport": {
-                "northeast": {
-                  "lat": 24.9891929802915,
-                  "lng": 121.5754219802915
-                },
-                "southwest": {
-                  "lat": 24.9864950197085,
-                  "lng": 121.5727240197085
-                }
-              }
-            },
-            "place_id": "ChIJV802M3qqQjQRfI6yLd5T2lE",
-            "plus_code": {
-              "compound_code": "XHQF+4J Wenshan District, 台北市 Taiwan",
-              "global_code": "7QP3XHQF+4J"
-            },
-            "types": ["street_address"]
-          }
-        ],
-        "status": "OK"
-      }
+      "location": { "lat": 24.987844, "lng": 121.574073 }
     },
     {
       "店名": "佳珍自助餐店",
@@ -1735,71 +211,7 @@
       "平均價位": "$65",
       "評價": "4.3",
       "推薦": "滷雞腿便當",
-      "geocode": {
-        "results": [
-          {
-            "address_components": [
-              {
-                "long_name": "9",
-                "short_name": "9",
-                "types": ["street_number"]
-              },
-              {
-                "long_name": "Section 2, Zhongshun Street",
-                "short_name": "Section 2, Zhongshun St",
-                "types": ["route"]
-              },
-              {
-                "long_name": "Muzha",
-                "short_name": "Muzha",
-                "types": ["neighborhood", "political"]
-              },
-              {
-                "long_name": "Wenshan District",
-                "short_name": "Wenshan District",
-                "types": ["administrative_area_level_3", "political"]
-              },
-              {
-                "long_name": "Taipei City",
-                "short_name": "Taipei City",
-                "types": ["administrative_area_level_1", "political"]
-              },
-              {
-                "long_name": "Taiwan",
-                "short_name": "TW",
-                "types": ["country", "political"]
-              },
-              {
-                "long_name": "116",
-                "short_name": "116",
-                "types": ["postal_code"]
-              }
-            ],
-            "formatted_address": "No. 9, Section 2, Zhongshun St, Wenshan District, Taipei City, Taiwan 116",
-            "geometry": {
-              "location": { "lat": 24.9847395, "lng": 121.5624185 },
-              "location_type": "ROOFTOP",
-              "viewport": {
-                "northeast": {
-                  "lat": 24.98608848029151,
-                  "lng": 121.5637674802915
-                },
-                "southwest": {
-                  "lat": 24.9833905197085,
-                  "lng": 121.5610695197085
-                }
-              }
-            },
-            "place_id": "ChIJAZ1MeXWqQjQRJrN_TbJzkQI",
-            "plus_code": {
-              "compound_code": "XHM6+VX Wenshan District, 台北市 Taiwan",
-              "global_code": "7QP3XHM6+VX"
-            },
-            "types": ["street_address"]
-          }
-        ],
-        "status": "OK"
-      }
+      "location": { "lat": 24.9847395, "lng": 121.5624185 }
     }
   ],
   "早餐+飲料類": [
@@ -1810,71 +222,7 @@
       "平均價位": "$60",
       "評價": "4.3",
       "推薦": "飯糰、古早味蛋餅、豆漿紅茶",
-      "geocode": {
-        "results": [
-          {
-            "address_components": [
-              {
-                "long_name": "14",
-                "short_name": "14",
-                "types": ["street_number"]
-              },
-              {
-                "long_name": "Wanshou Road",
-                "short_name": "Wanshou Road",
-                "types": ["route"]
-              },
-              {
-                "long_name": "Muzha",
-                "short_name": "Muzha",
-                "types": ["neighborhood", "political"]
-              },
-              {
-                "long_name": "Wenshan District",
-                "short_name": "Wenshan District",
-                "types": ["administrative_area_level_3", "political"]
-              },
-              {
-                "long_name": "Taipei City",
-                "short_name": "Taipei City",
-                "types": ["administrative_area_level_1", "political"]
-              },
-              {
-                "long_name": "Taiwan",
-                "short_name": "TW",
-                "types": ["country", "political"]
-              },
-              {
-                "long_name": "116",
-                "short_name": "116",
-                "types": ["postal_code"]
-              }
-            ],
-            "formatted_address": "No. 14, Wanshou Road, Wenshan District, Taipei City, Taiwan 116",
-            "geometry": {
-              "location": { "lat": 24.9881403, "lng": 121.5762952 },
-              "location_type": "ROOFTOP",
-              "viewport": {
-                "northeast": {
-                  "lat": 24.9894892802915,
-                  "lng": 121.5776441802915
-                },
-                "southwest": {
-                  "lat": 24.9867913197085,
-                  "lng": 121.5749462197085
-                }
-              }
-            },
-            "place_id": "ChIJF_QQjnuqQjQRC5i7qI-UjaY",
-            "plus_code": {
-              "compound_code": "XHQG+7G Wenshan District, 台北市 Taiwan",
-              "global_code": "7QP3XHQG+7G"
-            },
-            "types": ["street_address"]
-          }
-        ],
-        "status": "OK"
-      }
+      "location": { "lat": 24.9881403, "lng": 121.5762952 }
     },
     {
       "店名": " Cow Banana ",
@@ -1883,71 +231,7 @@
       "平均價位": "$65",
       "評價": "4.3",
       "推薦": "蔓越梅鮮奶、香蕉巧克力鮮奶",
-      "geocode": {
-        "results": [
-          {
-            "address_components": [
-              {
-                "long_name": "5",
-                "short_name": "5",
-                "types": ["street_number"]
-              },
-              {
-                "long_name": "Wanshou Road",
-                "short_name": "Wanshou Road",
-                "types": ["route"]
-              },
-              {
-                "long_name": "Muzha",
-                "short_name": "Muzha",
-                "types": ["neighborhood", "political"]
-              },
-              {
-                "long_name": "Wenshan District",
-                "short_name": "Wenshan District",
-                "types": ["administrative_area_level_3", "political"]
-              },
-              {
-                "long_name": "Taipei City",
-                "short_name": "Taipei City",
-                "types": ["administrative_area_level_1", "political"]
-              },
-              {
-                "long_name": "Taiwan",
-                "short_name": "TW",
-                "types": ["country", "political"]
-              },
-              {
-                "long_name": "116",
-                "short_name": "116",
-                "types": ["postal_code"]
-              }
-            ],
-            "formatted_address": "No. 5, Wanshou Road, Wenshan District, Taipei City, Taiwan 116",
-            "geometry": {
-              "location": { "lat": 24.9877941, "lng": 121.5756459 },
-              "location_type": "ROOFTOP",
-              "viewport": {
-                "northeast": {
-                  "lat": 24.98914308029151,
-                  "lng": 121.5769948802915
-                },
-                "southwest": {
-                  "lat": 24.9864451197085,
-                  "lng": 121.5742969197085
-                }
-              }
-            },
-            "place_id": "ChIJfTu4lHuqQjQRXZyPJWBUV94",
-            "plus_code": {
-              "compound_code": "XHQG+47 Wenshan District, 台北市 Taiwan",
-              "global_code": "7QP3XHQG+47"
-            },
-            "types": ["street_address"]
-          }
-        ],
-        "status": "OK"
-      }
+      "location": { "lat": 24.9877941, "lng": 121.5756459 }
     },
     {
       "店名": " Arty Burger 政大店",
@@ -1956,71 +240,7 @@
       "平均價位": "$65",
       "評價": "4",
       "推薦": "墨西哥雞肉蛋捲、奶油燻雞麵",
-      "geocode": {
-        "results": [
-          {
-            "address_components": [
-              {
-                "long_name": "10",
-                "short_name": "10",
-                "types": ["street_number"]
-              },
-              {
-                "long_name": "Lane 45, Section 2, Zhinan Road",
-                "short_name": "Lane 45, Section 2, Zhinan Road",
-                "types": ["route"]
-              },
-              {
-                "long_name": "Muzha",
-                "short_name": "Muzha",
-                "types": ["neighborhood", "political"]
-              },
-              {
-                "long_name": "Wenshan District",
-                "short_name": "Wenshan District",
-                "types": ["administrative_area_level_3", "political"]
-              },
-              {
-                "long_name": "Taipei City",
-                "short_name": "Taipei City",
-                "types": ["administrative_area_level_1", "political"]
-              },
-              {
-                "long_name": "Taiwan",
-                "short_name": "TW",
-                "types": ["country", "political"]
-              },
-              {
-                "long_name": "116",
-                "short_name": "116",
-                "types": ["postal_code"]
-              }
-            ],
-            "formatted_address": "No. 10, Lane 45, Section 2, Zhinan Road, Wenshan District, Taipei City, Taiwan 116",
-            "geometry": {
-              "location": { "lat": 24.9887239, "lng": 121.574551 },
-              "location_type": "ROOFTOP",
-              "viewport": {
-                "northeast": {
-                  "lat": 24.99007288029151,
-                  "lng": 121.5758999802915
-                },
-                "southwest": {
-                  "lat": 24.9873749197085,
-                  "lng": 121.5732020197085
-                }
-              }
-            },
-            "place_id": "ChIJ0_u9sXuqQjQRDooMHhxoCoM",
-            "plus_code": {
-              "compound_code": "XHQF+FR Wenshan District, 台北市 Taiwan",
-              "global_code": "7QP3XHQF+FR"
-            },
-            "types": ["street_address"]
-          }
-        ],
-        "status": "OK"
-      }
+      "location": { "lat": 24.9887239, "lng": 121.574551 }
     },
     {
       "店名": "山的另一邊",
@@ -2029,81 +249,7 @@
       "平均價位": "$100",
       "評價": "4.3",
       "推薦": "塔塔醬雞柳蛋餅、USA哞牛肉堡、豬肉吐司",
-      "geocode": {
-        "results": [
-          {
-            "address_components": [
-              {
-                "long_name": "1樓",
-                "short_name": "1樓",
-                "types": ["subpremise"]
-              },
-              {
-                "long_name": "264號",
-                "short_name": "264號",
-                "types": ["street_number"]
-              },
-              {
-                "long_name": "Section 2, Muxin Road",
-                "short_name": "Section 2, Muxin Road",
-                "types": ["route"]
-              },
-              {
-                "long_name": "Muzha",
-                "short_name": "Muzha",
-                "types": ["neighborhood", "political"]
-              },
-              {
-                "long_name": "Wenshan District",
-                "short_name": "Wenshan District",
-                "types": ["administrative_area_level_3", "political"]
-              },
-              {
-                "long_name": "Taipei City",
-                "short_name": "Taipei City",
-                "types": ["administrative_area_level_1", "political"]
-              },
-              {
-                "long_name": "Taiwan",
-                "short_name": "TW",
-                "types": ["country", "political"]
-              },
-              {
-                "long_name": "116",
-                "short_name": "116",
-                "types": ["postal_code"]
-              }
-            ],
-            "formatted_address": "116, Taiwan, Taipei City, Wenshan District, Section 2, Muxin Road, 264號1樓",
-            "geometry": {
-              "location": { "lat": 24.983152, "lng": 121.566041 },
-              "location_type": "ROOFTOP",
-              "viewport": {
-                "northeast": {
-                  "lat": 24.9845009802915,
-                  "lng": 121.5673899802915
-                },
-                "southwest": {
-                  "lat": 24.9818030197085,
-                  "lng": 121.5646920197085
-                }
-              }
-            },
-            "place_id": "ChIJLVmukzYBaDQRKlqz57uGSIE",
-            "plus_code": {
-              "compound_code": "XHM8+7C Wenshan District, 台北市 Taiwan",
-              "global_code": "7QP3XHM8+7C"
-            },
-            "types": [
-              "establishment",
-              "food",
-              "point_of_interest",
-              "restaurant"
-            ]
-          }
-        ],
-        "status": "OK"
-      }
+      "location": { "lat": 24.983152, "lng": 121.566041 }
     },
     {
       "店名": "政大茶亭",
@@ -2112,71 +258,7 @@
       "平均價位": "$35",
       "評價": "4.7",
       "推薦": "酪梨牛奶、香蕉牛奶、綠豆沙牛奶",
-      "geocode": {
-        "results": [
-          {
-            "address_components": [
-              {
-                "long_name": "12",
-                "short_name": "12",
-                "types": ["street_number"]
-              },
-              {
-                "long_name": "Section 2, Zhinan Road",
-                "short_name": "Section 2, Zhinan Road",
-                "types": ["route"]
-              },
-              {
-                "long_name": "Muzha",
-                "short_name": "Muzha",
-                "types": ["neighborhood", "political"]
-              },
-              {
-                "long_name": "Wenshan District",
-                "short_name": "Wenshan District",
-                "types": ["administrative_area_level_3", "political"]
-              },
-              {
-                "long_name": "Taipei City",
-                "short_name": "Taipei City",
-                "types": ["administrative_area_level_1", "political"]
-              },
-              {
-                "long_name": "Taiwan",
-                "short_name": "TW",
-                "types": ["country", "political"]
-              },
-              {
-                "long_name": "116",
-                "short_name": "116",
-                "types": ["postal_code"]
-              }
-            ],
-            "formatted_address": "No. 12, Section 2, Zhinan Road, Wenshan District, Taipei City, Taiwan 116",
-            "geometry": {
-              "location": { "lat": 24.9878319, "lng": 121.5743256 },
-              "location_type": "ROOFTOP",
-              "viewport": {
-                "northeast": {
-                  "lat": 24.9891808802915,
-                  "lng": 121.5756745802915
-                },
-                "southwest": {
-                  "lat": 24.9864829197085,
-                  "lng": 121.5729766197085
-                }
-              }
-            },
-            "place_id": "ChIJSWZvzHuqQjQRUBG3J3CXQfw",
-            "plus_code": {
-              "compound_code": "XHQF+4P Wenshan District, 台北市 Taiwan",
-              "global_code": "7QP3XHQF+4P"
-            },
-            "types": ["street_address"]
-          }
-        ],
-        "status": "OK"
-      }
+      "location": { "lat": 24.9878319, "lng": 121.5743256 }
     },
     {
       "店名": "龍角手作茶",
@@ -2185,71 +267,7 @@
       "平均價位": "$100",
       "評價": "4.7",
       "推薦": "小芋圓厚奶茶、蜂蜜牛奶、自釀醃梅青",
-      "geocode": {
-        "results": [
-          {
-            "address_components": [
-              {
-                "long_name": "33",
-                "short_name": "33",
-                "types": ["street_number"]
-              },
-              {
-                "long_name": "Section 2, Zhinan Road",
-                "short_name": "Section 2, Zhinan Road",
-                "types": ["route"]
-              },
-              {
-                "long_name": "Muzha",
-                "short_name": "Muzha",
-                "types": ["neighborhood", "political"]
-              },
-              {
-                "long_name": "Wenshan District",
-                "short_name": "Wenshan District",
-                "types": ["administrative_area_level_3", "political"]
-              },
-              {
-                "long_name": "Taipei City",
-                "short_name": "Taipei City",
-                "types": ["administrative_area_level_1", "political"]
-              },
-              {
-                "long_name": "Taiwan",
-                "short_name": "TW",
-                "types": ["country", "political"]
-              },
-              {
-                "long_name": "116",
-                "short_name": "116",
-                "types": ["postal_code"]
-              }
-            ],
-            "formatted_address": "No. 33, Section 2, Zhinan Road, Wenshan District, Taipei City, Taiwan 116",
-            "geometry": {
-              "location": { "lat": 24.988132, "lng": 121.573936 },
-              "location_type": "ROOFTOP",
-              "viewport": {
-                "northeast": {
-                  "lat": 24.9894809802915,
-                  "lng": 121.5752849802915
-                },
-                "southwest": {
-                  "lat": 24.9867830197085,
-                  "lng": 121.5725870197085
-                }
-              }
-            },
-            "place_id": "ChIJEx3_NHqqQjQRKJZCfs66KYc",
-            "plus_code": {
-              "compound_code": "XHQF+7H Wenshan District, 台北市 Taiwan",
-              "global_code": "7QP3XHQF+7H"
-            },
-            "types": ["street_address"]
-          }
-        ],
-        "status": "OK"
-      }
+      "location": { "lat": 24.988132, "lng": 121.573936 }
     }
   ]
 }

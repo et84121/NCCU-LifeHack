@@ -1,0 +1,1387 @@
+[
+  {
+    "類別": "教育",
+    "地名": "國立政治大學達賢圖書館",
+    "地址": "116台北市文山區萬壽路36號",
+    "推薦交通方式＆預估花費時間": "走路 約5分鐘",
+    "消費金額": 0,
+    "評價": "",
+    "備註": "",
+    "geocode": {
+      "results": [
+        {
+          "address_components": [
+            {
+              "long_name": "36",
+              "short_name": "36",
+              "types": ["street_number"]
+            },
+            {
+              "long_name": "Wanshou Road",
+              "short_name": "Wanshou Road",
+              "types": ["route"]
+            },
+            {
+              "long_name": "Muzha",
+              "short_name": "Muzha",
+              "types": ["neighborhood", "political"]
+            },
+            {
+              "long_name": "Wenshan District",
+              "short_name": "Wenshan District",
+              "types": ["administrative_area_level_3", "political"]
+            },
+            {
+              "long_name": "Taipei City",
+              "short_name": "Taipei City",
+              "types": ["administrative_area_level_1", "political"]
+            },
+            {
+              "long_name": "Taiwan",
+              "short_name": "TW",
+              "types": ["country", "political"]
+            },
+            {
+              "long_name": "116",
+              "short_name": "116",
+              "types": ["postal_code"]
+            }
+          ],
+          "formatted_address": "No. 36, Wanshou Road, Wenshan District, Taipei City, Taiwan 116",
+          "geometry": {
+            "location": { "lat": 24.9885791, "lng": 121.5781272 },
+            "location_type": "ROOFTOP",
+            "viewport": {
+              "northeast": {
+                "lat": 24.9899280802915,
+                "lng": 121.5794761802915
+              },
+              "southwest": { "lat": 24.9872301197085, "lng": 121.5767782197085 }
+            }
+          },
+          "place_id": "ChIJocxwiXyqQjQRJj7YIxZvKyc",
+          "plus_code": {
+            "compound_code": "XHQH+C7 Wenshan District, 台北市 Taiwan",
+            "global_code": "7QP3XHQH+C7"
+          },
+          "types": ["street_address"]
+        }
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "類別": "夜生活",
+    "地名": "景美夜市",
+    "地址": "116台北市文山區景美街",
+    "推薦交通方式＆預估花費時間": "公車 約32分鐘",
+    "消費金額": "$$",
+    "評價": 4,
+    "備註": "不用多做評論 懂得都懂 知名夜市",
+    "geocode": {
+      "results": [
+        {
+          "address_components": [
+            {
+              "long_name": "Jingmei Street",
+              "short_name": "Jingmei Street",
+              "types": ["route"]
+            },
+            {
+              "long_name": "Wenshan District",
+              "short_name": "Wenshan District",
+              "types": ["administrative_area_level_3", "political"]
+            },
+            {
+              "long_name": "Taipei City",
+              "short_name": "Taipei City",
+              "types": ["administrative_area_level_1", "political"]
+            },
+            {
+              "long_name": "Taiwan",
+              "short_name": "TW",
+              "types": ["country", "political"]
+            },
+            {
+              "long_name": "116",
+              "short_name": "116",
+              "types": ["postal_code"]
+            }
+          ],
+          "formatted_address": "Jingmei Street, Wenshan District, Taipei City, Taiwan 116",
+          "geometry": {
+            "bounds": {
+              "northeast": { "lat": 24.995328, "lng": 121.5421741 },
+              "southwest": { "lat": 24.9878658, "lng": 121.5405685 }
+            },
+            "location": { "lat": 24.9916431, "lng": 121.5416403 },
+            "location_type": "GEOMETRIC_CENTER",
+            "viewport": {
+              "northeast": { "lat": 24.995328, "lng": 121.5427202802915 },
+              "southwest": { "lat": 24.9878658, "lng": 121.5400223197085 }
+            }
+          },
+          "place_id": "ChIJf3p7vwCqQjQRtN6tMOJ7Vak",
+          "types": ["route"]
+        }
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "類別": "夜生活",
+    "地名": "好脾氣酒吧",
+    "地址": "116台北市文山區新光路一段22號",
+    "推薦交通方式＆預估花費時間": "走路 約5分鐘",
+    "消費金額": "$$",
+    "評價": 4.6,
+    "備註": "啤酒專賣 學生友好很丘",
+    "geocode": {
+      "results": [
+        {
+          "address_components": [
+            {
+              "long_name": "22-2",
+              "short_name": "22-2",
+              "types": ["street_number"]
+            },
+            {
+              "long_name": "Section 1, Xinguang Road",
+              "short_name": "Section 1, Xinguang Road",
+              "types": ["route"]
+            },
+            {
+              "long_name": "Muzha",
+              "short_name": "Muzha",
+              "types": ["neighborhood", "political"]
+            },
+            {
+              "long_name": "Wenshan District",
+              "short_name": "Wenshan District",
+              "types": ["administrative_area_level_3", "political"]
+            },
+            {
+              "long_name": "Taipei City",
+              "short_name": "Taipei City",
+              "types": ["administrative_area_level_1", "political"]
+            },
+            {
+              "long_name": "Taiwan",
+              "short_name": "TW",
+              "types": ["country", "political"]
+            },
+            {
+              "long_name": "116",
+              "short_name": "116",
+              "types": ["postal_code"]
+            }
+          ],
+          "formatted_address": "No. 22-2, Section 1, Xinguang Road, Wenshan District, Taipei City, Taiwan 116",
+          "geometry": {
+            "location": { "lat": 24.988849, "lng": 121.573337 },
+            "location_type": "ROOFTOP",
+            "viewport": {
+              "northeast": {
+                "lat": 24.9901979802915,
+                "lng": 121.5746859802915
+              },
+              "southwest": { "lat": 24.9875000197085, "lng": 121.5719880197085 }
+            }
+          },
+          "place_id": "ChIJn8_tRXqqQjQRZmqKqZ6fSzM",
+          "plus_code": {
+            "compound_code": "XHQF+G8 Wenshan District, 台北市 Taiwan",
+            "global_code": "7QP3XHQF+G8"
+          },
+          "types": ["street_address"]
+        }
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "類別": "夜生活",
+    "地名": "mademan酒吧",
+    "地址": "116台北市文山區萬芳路9-1號號B1",
+    "推薦交通方式＆預估花費時間": "公車 約20分鐘",
+    "消費金額": "$$$",
+    "評價": 4.6,
+    "備註": "氣氛好 容易遇到明星 消費偏高",
+    "geocode": {
+      "results": [
+        {
+          "address_components": [
+            {
+              "long_name": "號B1",
+              "short_name": "號B1",
+              "types": ["subpremise"]
+            },
+            {
+              "long_name": "9-1",
+              "short_name": "9-1",
+              "types": ["street_number"]
+            },
+            {
+              "long_name": "Wanfang Road",
+              "short_name": "Wanfang Road",
+              "types": ["route"]
+            },
+            {
+              "long_name": "Muzha",
+              "short_name": "Muzha",
+              "types": ["neighborhood", "political"]
+            },
+            {
+              "long_name": "Wenshan District",
+              "short_name": "Wenshan District",
+              "types": ["administrative_area_level_3", "political"]
+            },
+            {
+              "long_name": "Taipei City",
+              "short_name": "Taipei City",
+              "types": ["administrative_area_level_1", "political"]
+            },
+            {
+              "long_name": "Taiwan",
+              "short_name": "TW",
+              "types": ["country", "political"]
+            },
+            {
+              "long_name": "116",
+              "short_name": "116",
+              "types": ["postal_code"]
+            }
+          ],
+          "formatted_address": "116, Taiwan, Taipei City, Wenshan District, Wanfang Road, 9-1號號B1",
+          "geometry": {
+            "location": { "lat": 24.9984807, "lng": 121.5704915 },
+            "location_type": "ROOFTOP",
+            "viewport": {
+              "northeast": {
+                "lat": 24.9998296802915,
+                "lng": 121.5718404802915
+              },
+              "southwest": { "lat": 24.9971317197085, "lng": 121.5691425197085 }
+            }
+          },
+          "partial_match": true,
+          "place_id": "ChIJGzW9smiqQjQRItodTEVrmrQ",
+          "types": ["subpremise"]
+        }
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "類別": "夜生活",
+    "地名": "貓空茶館 （清泉山莊）",
+    "地址": "116台北市文山區指南路三段38巷33-3號",
+    "推薦交通方式＆預估花費時間": "公車 約20分鐘",
+    "消費金額": "$$",
+    "評價": 4.3,
+    "備註": "夜景清楚 食物喝茶味道都不錯 交通方便",
+    "geocode": {
+      "results": [
+        {
+          "address_components": [
+            {
+              "long_name": "33-3",
+              "short_name": "33-3",
+              "types": ["street_number"]
+            },
+            {
+              "long_name": "Lane 38, Section 3, Zhinan Road",
+              "short_name": "Lane 38, Section 3, Zhinan Road",
+              "types": ["route"]
+            },
+            {
+              "long_name": "Muzha",
+              "short_name": "Muzha",
+              "types": ["neighborhood", "political"]
+            },
+            {
+              "long_name": "Wenshan District",
+              "short_name": "Wenshan District",
+              "types": ["administrative_area_level_3", "political"]
+            },
+            {
+              "long_name": "Taipei City",
+              "short_name": "Taipei City",
+              "types": ["administrative_area_level_1", "political"]
+            },
+            {
+              "long_name": "Taiwan",
+              "short_name": "TW",
+              "types": ["country", "political"]
+            },
+            {
+              "long_name": "116",
+              "short_name": "116",
+              "types": ["postal_code"]
+            }
+          ],
+          "formatted_address": "No. 33-3, Lane 38, Section 3, Zhinan Road, Wenshan District, Taipei City, Taiwan 116",
+          "geometry": {
+            "location": { "lat": 24.9666586, "lng": 121.5913802 },
+            "location_type": "ROOFTOP",
+            "viewport": {
+              "northeast": {
+                "lat": 24.9680075802915,
+                "lng": 121.5927291802915
+              },
+              "southwest": { "lat": 24.9653096197085, "lng": 121.5900312197085 }
+            }
+          },
+          "place_id": "ChIJf1DI1i8AaDQRICDY1ohMzso",
+          "plus_code": {
+            "compound_code": "XH8R+MH Wenshan District, 台北市 Taiwan",
+            "global_code": "7QP3XH8R+MH"
+          },
+          "types": ["street_address"]
+        }
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "類別": "聚會",
+    "地名": "好樂迪",
+    "地址": "116台北市文山區羅斯福路六段403號",
+    "推薦交通方式＆預估花費時間": "公車 約26分鐘",
+    "消費金額": "$$",
+    "評價": 3.7,
+    "備註": "場地比較老舊 歌也比較舊 24hr營業",
+    "geocode": {
+      "results": [
+        {
+          "address_components": [
+            {
+              "long_name": "403",
+              "short_name": "403",
+              "types": ["street_number"]
+            },
+            {
+              "long_name": "Section 6, Roosevelt Road",
+              "short_name": "Section 6, Roosevelt Rd",
+              "types": ["route"]
+            },
+            {
+              "long_name": "Wenshan District",
+              "short_name": "Wenshan District",
+              "types": ["administrative_area_level_3", "political"]
+            },
+            {
+              "long_name": "Taipei City",
+              "short_name": "Taipei City",
+              "types": ["administrative_area_level_1", "political"]
+            },
+            {
+              "long_name": "Taiwan",
+              "short_name": "TW",
+              "types": ["country", "political"]
+            },
+            {
+              "long_name": "116",
+              "short_name": "116",
+              "types": ["postal_code"]
+            }
+          ],
+          "formatted_address": "No. 403, Section 6, Roosevelt Rd, Wenshan District, Taipei City, Taiwan 116",
+          "geometry": {
+            "location": { "lat": 24.991753, "lng": 121.540693 },
+            "location_type": "ROOFTOP",
+            "viewport": {
+              "northeast": {
+                "lat": 24.9931019802915,
+                "lng": 121.5420419802915
+              },
+              "southwest": { "lat": 24.9904040197085, "lng": 121.5393440197085 }
+            }
+          },
+          "place_id": "ChIJzzaS5ACqQjQREiqT_dK-xtQ",
+          "plus_code": {
+            "compound_code": "XGRR+P7 Wenshan District, 台北市 Taiwan",
+            "global_code": "7QP3XGRR+P7"
+          },
+          "types": ["street_address"]
+        }
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "類別": "聚會",
+    "地名": "老薑咖啡廳",
+    "地址": "116台北市文山區指南路三段6號",
+    "推薦交通方式＆預估花費時間": "走路 約6分鐘",
+    "消費金額": "$$",
+    "評價": 4.5,
+    "備註": "營業時間:(三)-(日)13:00-19:00",
+    "geocode": {
+      "results": [
+        {
+          "address_components": [
+            { "long_name": "6", "short_name": "6", "types": ["street_number"] },
+            {
+              "long_name": "Section 3, Zhinan Road",
+              "short_name": "Section 3, Zhinan Road",
+              "types": ["route"]
+            },
+            {
+              "long_name": "Muzha",
+              "short_name": "Muzha",
+              "types": ["neighborhood", "political"]
+            },
+            {
+              "long_name": "Wenshan District",
+              "short_name": "Wenshan District",
+              "types": ["administrative_area_level_3", "political"]
+            },
+            {
+              "long_name": "Taipei City",
+              "short_name": "Taipei City",
+              "types": ["administrative_area_level_1", "political"]
+            },
+            {
+              "long_name": "Taiwan",
+              "short_name": "TW",
+              "types": ["country", "political"]
+            },
+            {
+              "long_name": "116",
+              "short_name": "116",
+              "types": ["postal_code"]
+            }
+          ],
+          "formatted_address": "No. 6, Section 3, Zhinan Road, Wenshan District, Taipei City, Taiwan 116",
+          "geometry": {
+            "location": { "lat": 24.98519, "lng": 121.5798858 },
+            "location_type": "ROOFTOP",
+            "viewport": {
+              "northeast": {
+                "lat": 24.9865389802915,
+                "lng": 121.5812347802915
+              },
+              "southwest": { "lat": 24.9838410197085, "lng": 121.5785368197085 }
+            }
+          },
+          "place_id": "ChIJz1fqfX6qQjQRMEDh_u6Sj5c",
+          "plus_code": {
+            "compound_code": "XHPH+3X Wenshan District, 台北市 Taiwan",
+            "global_code": "7QP3XHPH+3X"
+          },
+          "types": ["street_address"]
+        }
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "類別": "聚會",
+    "地名": "政大後山烤肉區",
+    "地址": "116台北市文山區恆光橋下",
+    "推薦交通方式＆預估花費時間": "公車 約12分鐘",
+    "消費金額": 0,
+    "評價": 3.9,
+    "備註": "沒有燈光 橋下可以避雨",
+    "geocode": {
+      "results": [
+        {
+          "address_components": [
+            {
+              "long_name": "Hengguang Bridge Riverside Park",
+              "short_name": "Hengguang Bridge Riverside Park",
+              "types": [
+                "establishment",
+                "park",
+                "point_of_interest",
+                "tourist_attraction"
+              ]
+            },
+            {
+              "long_name": "Muzha",
+              "short_name": "Muzha",
+              "types": ["neighborhood", "political"]
+            },
+            {
+              "long_name": "Wenshan District",
+              "short_name": "Wenshan District",
+              "types": ["administrative_area_level_3", "political"]
+            },
+            {
+              "long_name": "Taipei City",
+              "short_name": "Taipei City",
+              "types": ["administrative_area_level_1", "political"]
+            },
+            {
+              "long_name": "Taiwan",
+              "short_name": "TW",
+              "types": ["country", "political"]
+            },
+            {
+              "long_name": "116",
+              "short_name": "116",
+              "types": ["postal_code"]
+            }
+          ],
+          "formatted_address": "Hengguang Bridge Riverside Park, Wenshan District, Taipei City, Taiwan 116",
+          "geometry": {
+            "location": { "lat": 24.9812715, "lng": 121.5675201 },
+            "location_type": "GEOMETRIC_CENTER",
+            "viewport": {
+              "northeast": {
+                "lat": 24.9826204802915,
+                "lng": 121.5688690802915
+              },
+              "southwest": { "lat": 24.9799225197085, "lng": 121.5661711197085 }
+            }
+          },
+          "place_id": "ChIJH-ae79gBaDQRIwSaI9eoz-o",
+          "plus_code": {
+            "compound_code": "XHJ9+G2 Wenshan District, 台北市 Taiwan",
+            "global_code": "7QP3XHJ9+G2"
+          },
+          "types": [
+            "establishment",
+            "park",
+            "point_of_interest",
+            "tourist_attraction"
+          ]
+        },
+        {
+          "address_components": [
+            {
+              "long_name": "16",
+              "short_name": "16",
+              "types": ["street_number"]
+            },
+            {
+              "long_name": "恆光街",
+              "short_name": "恆光街",
+              "types": ["route"]
+            },
+            {
+              "long_name": "木柵",
+              "short_name": "木柵",
+              "types": ["neighborhood", "political"]
+            },
+            {
+              "long_name": "文山區",
+              "short_name": "文山區",
+              "types": ["administrative_area_level_3", "political"]
+            },
+            {
+              "long_name": "台北市",
+              "short_name": "台北市",
+              "types": ["administrative_area_level_1", "political"]
+            },
+            {
+              "long_name": "Taiwan",
+              "short_name": "TW",
+              "types": ["country", "political"]
+            },
+            {
+              "long_name": "116",
+              "short_name": "116",
+              "types": ["postal_code"]
+            }
+          ],
+          "formatted_address": "號, No. 16恆光街文山區台北市 Taiwan 116",
+          "geometry": {
+            "location": { "lat": 24.9826426, "lng": 121.5668442 },
+            "location_type": "ROOFTOP",
+            "viewport": {
+              "northeast": {
+                "lat": 24.9839915802915,
+                "lng": 121.5681931802915
+              },
+              "southwest": { "lat": 24.9812936197085, "lng": 121.5654952197085 }
+            }
+          },
+          "place_id": "ChIJzeq4otgBaDQRssPOgLt6mtI",
+          "plus_code": {
+            "compound_code": "XHM8+3P Wenshan District, 台北市 Taiwan",
+            "global_code": "7QP3XHM8+3P"
+          },
+          "types": ["establishment", "food", "point_of_interest", "store"]
+        }
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "類別": "聚會",
+    "地名": "小廢墟咖啡廳",
+    "地址": "116台北市文山區木柵路三段242號",
+    "推薦交通方式＆預估花費時間": "走路 約5分鐘",
+    "消費金額": "$$",
+    "評價": 4.5,
+    "備註": "營業時間:(二)-(日)13:00-21:00",
+    "geocode": {
+      "results": [
+        {
+          "address_components": [
+            {
+              "long_name": "242",
+              "short_name": "242",
+              "types": ["street_number"]
+            },
+            {
+              "long_name": "Section 3, Muzha Road",
+              "short_name": "Section 3, Muzha Rd",
+              "types": ["route"]
+            },
+            {
+              "long_name": "Muzha",
+              "short_name": "Muzha",
+              "types": ["neighborhood", "political"]
+            },
+            {
+              "long_name": "Wenshan District",
+              "short_name": "Wenshan District",
+              "types": ["administrative_area_level_3", "political"]
+            },
+            {
+              "long_name": "Taipei City",
+              "short_name": "Taipei City",
+              "types": ["administrative_area_level_1", "political"]
+            },
+            {
+              "long_name": "Taiwan",
+              "short_name": "TW",
+              "types": ["country", "political"]
+            },
+            {
+              "long_name": "116",
+              "short_name": "116",
+              "types": ["postal_code"]
+            }
+          ],
+          "formatted_address": "No. 242, Section 3, Muzha Rd, Wenshan District, Taipei City, Taiwan 116",
+          "geometry": {
+            "location": { "lat": 24.9907558, "lng": 121.5710487 },
+            "location_type": "ROOFTOP",
+            "viewport": {
+              "northeast": {
+                "lat": 24.9921047802915,
+                "lng": 121.5723976802915
+              },
+              "southwest": { "lat": 24.9894068197085, "lng": 121.5696997197085 }
+            }
+          },
+          "place_id": "ChIJP-0cf3CqQjQR0pz6Q2Q14hw",
+          "plus_code": {
+            "compound_code": "XHRC+8C Wenshan District, 台北市 Taiwan",
+            "global_code": "7QP3XHRC+8C"
+          },
+          "types": ["street_address"]
+        }
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "類別": "聚會",
+    "地名": "動物園野炊區",
+    "地址": "116台北市文山區新光路二段2號",
+    "推薦交通方式＆預估花費時間": "公車 約11分鐘",
+    "消費金額": 0,
+    "評價": 4.6,
+    "備註": "旁邊有停車場 有位子可以坐",
+    "geocode": {
+      "results": [
+        {
+          "address_components": [
+            { "long_name": "2", "short_name": "2", "types": ["street_number"] },
+            {
+              "long_name": "Section 2, Xinguang Road",
+              "short_name": "Section 2, Xinguang Road",
+              "types": ["route"]
+            },
+            {
+              "long_name": "Maokong",
+              "short_name": "Maokong",
+              "types": ["neighborhood", "political"]
+            },
+            {
+              "long_name": "Wenshan District",
+              "short_name": "Wenshan District",
+              "types": ["administrative_area_level_3", "political"]
+            },
+            {
+              "long_name": "Taipei City",
+              "short_name": "Taipei City",
+              "types": ["administrative_area_level_1", "political"]
+            },
+            {
+              "long_name": "Taiwan",
+              "short_name": "TW",
+              "types": ["country", "political"]
+            },
+            {
+              "long_name": "116",
+              "short_name": "116",
+              "types": ["postal_code"]
+            }
+          ],
+          "formatted_address": "No. 2, Section 2, Xinguang Road, Wenshan District, Taipei City, Taiwan 116",
+          "geometry": {
+            "location": { "lat": 24.9980134, "lng": 121.5793627 },
+            "location_type": "ROOFTOP",
+            "viewport": {
+              "northeast": {
+                "lat": 24.9993623802915,
+                "lng": 121.5807116802915
+              },
+              "southwest": {
+                "lat": 24.99666441970849,
+                "lng": 121.5780137197085
+              }
+            }
+          },
+          "place_id": "ChIJE1-ZDmGqQjQRiBO85nur7Gc",
+          "plus_code": {
+            "compound_code": "XHXH+6P Wenshan District, 台北市 Taiwan",
+            "global_code": "7QP3XHXH+6P"
+          },
+          "types": ["street_address"]
+        }
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "類別": "運動",
+    "地名": "道南萬壽壘球場",
+    "地址": "116台北市文山區新光路二段191號",
+    "推薦交通方式＆預估花費時間": "公車 約8分鐘",
+    "消費金額": 0,
+    "評價": 4.3,
+    "備註": "河堤邊 場地狀況良好 近廁所與洗手台 休息區有坐椅",
+    "geocode": {
+      "results": [
+        {
+          "address_components": [
+            {
+              "long_name": "191",
+              "short_name": "191",
+              "types": ["street_number"]
+            },
+            {
+              "long_name": "Section 2, Xinguang Road",
+              "short_name": "Section 2, Xinguang Road",
+              "types": ["route"]
+            },
+            {
+              "long_name": "Muzha",
+              "short_name": "Muzha",
+              "types": ["neighborhood", "political"]
+            },
+            {
+              "long_name": "Wenshan District",
+              "short_name": "Wenshan District",
+              "types": ["administrative_area_level_3", "political"]
+            },
+            {
+              "long_name": "Taipei City",
+              "short_name": "Taipei City",
+              "types": ["administrative_area_level_1", "political"]
+            },
+            {
+              "long_name": "Taiwan",
+              "short_name": "TW",
+              "types": ["country", "political"]
+            },
+            {
+              "long_name": "116",
+              "short_name": "116",
+              "types": ["postal_code"]
+            }
+          ],
+          "formatted_address": "No. 191, Section 2, Xinguang Road, Wenshan District, Taipei City, Taiwan 116",
+          "geometry": {
+            "location": { "lat": 24.9937373, "lng": 121.5734031 },
+            "location_type": "ROOFTOP",
+            "viewport": {
+              "northeast": {
+                "lat": 24.9950862802915,
+                "lng": 121.5747520802915
+              },
+              "southwest": { "lat": 24.9923883197085, "lng": 121.5720541197085 }
+            }
+          },
+          "place_id": "ChIJjWSqImWqQjQR6i-WiWQUp-I",
+          "plus_code": {
+            "compound_code": "XHVF+F9 Wenshan District, 台北市 Taiwan",
+            "global_code": "7QP3XHVF+F9"
+          },
+          "types": ["street_address"]
+        }
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "類別": "運動",
+    "地名": "福和網球場",
+    "地址": "116台北市文山區福和橋下景2號疏散門",
+    "推薦交通方式＆預估花費時間": "公車 約40分鐘",
+    "消費金額": 0,
+    "評價": 4.4,
+    "備註": "場地多 平時有空場 晚上下班時間較為多人",
+    "geocode": {
+      "results": [
+        {
+          "address_components": [
+            {
+              "long_name": "Fuhe Riverside Park",
+              "short_name": "Fuhe Riverside Park",
+              "types": [
+                "establishment",
+                "park",
+                "point_of_interest",
+                "tourist_attraction"
+              ]
+            },
+            {
+              "long_name": "Yonghe District",
+              "short_name": "Yonghe District",
+              "types": ["administrative_area_level_3", "political"]
+            },
+            {
+              "long_name": "New Taipei City",
+              "short_name": "New Taipei City",
+              "types": ["administrative_area_level_1", "political"]
+            },
+            {
+              "long_name": "Taiwan",
+              "short_name": "TW",
+              "types": ["country", "political"]
+            },
+            {
+              "long_name": "231",
+              "short_name": "231",
+              "types": ["postal_code"]
+            }
+          ],
+          "formatted_address": "Fuhe Riverside Park, Yonghe District, New Taipei City, Taiwan 231",
+          "geometry": {
+            "location": { "lat": 25.0044581, "lng": 121.5345835 },
+            "location_type": "GEOMETRIC_CENTER",
+            "viewport": {
+              "northeast": {
+                "lat": 25.0058070802915,
+                "lng": 121.5359324802915
+              },
+              "southwest": { "lat": 25.0031091197085, "lng": 121.5332345197085 }
+            }
+          },
+          "place_id": "ChIJ-5xGkFSpQjQRh0Np6bbAPiI",
+          "plus_code": {
+            "compound_code": "2G3M+QR Yonghe District, 新北市 Taiwan",
+            "global_code": "7QQ32G3M+QR"
+          },
+          "types": [
+            "establishment",
+            "park",
+            "point_of_interest",
+            "tourist_attraction"
+          ]
+        }
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "類別": "運動",
+    "地名": "道南河濱公園",
+    "地址": "116台北市文山區木新路二段299巷與號恆光街30巷交叉口",
+    "推薦交通方式＆預估花費時間": "公車 約12分鐘",
+    "消費金額": 0,
+    "評價": 4.3,
+    "備註": "籃球場 棒球場 各種運動設施",
+    "geocode": {
+      "results": [
+        {
+          "address_components": [
+            {
+              "long_name": "30",
+              "short_name": "30",
+              "types": ["street_number"]
+            },
+            {
+              "long_name": "Hengguang Street",
+              "short_name": "Hengguang Street",
+              "types": ["route"]
+            },
+            {
+              "long_name": "Muzha",
+              "short_name": "Muzha",
+              "types": ["neighborhood", "political"]
+            },
+            {
+              "long_name": "Wenshan District",
+              "short_name": "Wenshan District",
+              "types": ["administrative_area_level_3", "political"]
+            },
+            {
+              "long_name": "Taipei City",
+              "short_name": "Taipei City",
+              "types": ["administrative_area_level_1", "political"]
+            },
+            {
+              "long_name": "Taiwan",
+              "short_name": "TW",
+              "types": ["country", "political"]
+            },
+            {
+              "long_name": "116",
+              "short_name": "116",
+              "types": ["postal_code"]
+            }
+          ],
+          "formatted_address": "No. 30, Hengguang Street, Wenshan District, Taipei City, Taiwan 116",
+          "geometry": {
+            "location": { "lat": 24.9820286, "lng": 121.5670563 },
+            "location_type": "RANGE_INTERPOLATED",
+            "viewport": {
+              "northeast": {
+                "lat": 24.9833775802915,
+                "lng": 121.5684052802915
+              },
+              "southwest": { "lat": 24.9806796197085, "lng": 121.5657073197085 }
+            }
+          },
+          "place_id": "EkNOby4gMzAsIEhlbmdndWFuZyBTdHJlZXQsIFdlbnNoYW4gRGlzdHJpY3QsIFRhaXBlaSBDaXR5LCBUYWl3YW4gMTE2IhoSGAoUChIJY3zG6tgBaDQRC2atec8R6HUQHg",
+          "types": ["street_address"]
+        }
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "類別": "閒晃",
+    "地名": "動物園",
+    "地址": "116台北市文山區新光路二段30號",
+    "推薦交通方式＆預估花費時間": "騎車 約7分鐘",
+    "消費金額": "$",
+    "評價": 4.5,
+    "備註": "",
+    "geocode": {
+      "results": [
+        {
+          "address_components": [
+            {
+              "long_name": "30",
+              "short_name": "30",
+              "types": ["street_number"]
+            },
+            {
+              "long_name": "Section 2, Xinguang Road",
+              "short_name": "Section 2, Xinguang Road",
+              "types": ["route"]
+            },
+            {
+              "long_name": "Maokong",
+              "short_name": "Maokong",
+              "types": ["neighborhood", "political"]
+            },
+            {
+              "long_name": "Wenshan District",
+              "short_name": "Wenshan District",
+              "types": ["administrative_area_level_3", "political"]
+            },
+            {
+              "long_name": "Taipei City",
+              "short_name": "Taipei City",
+              "types": ["administrative_area_level_1", "political"]
+            },
+            {
+              "long_name": "Taiwan",
+              "short_name": "TW",
+              "types": ["country", "political"]
+            },
+            {
+              "long_name": "116",
+              "short_name": "116",
+              "types": ["postal_code"]
+            }
+          ],
+          "formatted_address": "No. 30, Section 2, Xinguang Road, Wenshan District, Taipei City, Taiwan 116",
+          "geometry": {
+            "location": { "lat": 24.9983305, "lng": 121.5810084 },
+            "location_type": "ROOFTOP",
+            "viewport": {
+              "northeast": {
+                "lat": 24.9996794802915,
+                "lng": 121.5823573802915
+              },
+              "southwest": {
+                "lat": 24.99698151970849,
+                "lng": 121.5796594197085
+              }
+            }
+          },
+          "place_id": "ChIJQalOtGGqQjQRH_bcLvmZuAw",
+          "plus_code": {
+            "compound_code": "XHXJ+8C Wenshan District, 台北市 Taiwan",
+            "global_code": "7QP3XHXJ+8C"
+          },
+          "types": ["street_address"]
+        }
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "類別": "閒晃",
+    "地名": "河濱公園",
+    "地址": "116台北市文山區景美溪邊",
+    "推薦交通方式＆預估花費時間": "騎車 約14分鐘",
+    "消費金額": 0,
+    "評價": 4.2,
+    "備註": "",
+    "geocode": {
+      "results": [
+        {
+          "address_components": [
+            {
+              "long_name": "景美溪",
+              "short_name": "景美溪",
+              "types": ["establishment", "natural_feature"]
+            },
+            {
+              "long_name": "Taiwan",
+              "short_name": "TW",
+              "types": ["country", "political"]
+            }
+          ],
+          "formatted_address": "Taiwan, 景美溪",
+          "geometry": {
+            "bounds": {
+              "northeast": { "lat": 25.0033092, "lng": 121.57125 },
+              "southwest": { "lat": 24.9730472, "lng": 121.531291 }
+            },
+            "location": { "lat": 24.9873052, "lng": 121.5516164 },
+            "location_type": "APPROXIMATE",
+            "viewport": {
+              "northeast": { "lat": 25.0033092, "lng": 121.57125 },
+              "southwest": { "lat": 24.9730472, "lng": 121.531291 }
+            }
+          },
+          "place_id": "ChIJq1X1bgiqQjQReJpAZ4lee24",
+          "types": ["establishment", "natural_feature"]
+        }
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "類別": "閒晃",
+    "地名": "清溪綠地",
+    "地址": "116台北市文山區政大一街",
+    "推薦交通方式＆預估花費時間": "騎車 約4分鐘",
+    "消費金額": 0,
+    "評價": 4.3,
+    "備註": "",
+    "geocode": {
+      "results": [
+        {
+          "address_components": [
+            {
+              "long_name": "Zhengda 1st Street",
+              "short_name": "Zhengda 1st Street",
+              "types": ["route"]
+            },
+            {
+              "long_name": "Muzha",
+              "short_name": "Muzha",
+              "types": ["neighborhood", "political"]
+            },
+            {
+              "long_name": "Wenshan District",
+              "short_name": "Wenshan District",
+              "types": ["administrative_area_level_3", "political"]
+            },
+            {
+              "long_name": "Taipei City",
+              "short_name": "Taipei City",
+              "types": ["administrative_area_level_1", "political"]
+            },
+            {
+              "long_name": "Taiwan",
+              "short_name": "TW",
+              "types": ["country", "political"]
+            },
+            {
+              "long_name": "116",
+              "short_name": "116",
+              "types": ["postal_code"]
+            }
+          ],
+          "formatted_address": "Zhengda 1st Street, Wenshan District, Taipei City, Taiwan 116",
+          "geometry": {
+            "bounds": {
+              "northeast": { "lat": 24.9885641, "lng": 121.5876576 },
+              "southwest": { "lat": 24.9844361, "lng": 121.5797662 }
+            },
+            "location": { "lat": 24.9856654, "lng": 121.5840389 },
+            "location_type": "GEOMETRIC_CENTER",
+            "viewport": {
+              "northeast": { "lat": 24.9885641, "lng": 121.5876576 },
+              "southwest": { "lat": 24.9844361, "lng": 121.5797662 }
+            }
+          },
+          "place_id": "ChIJs6-DboeqQjQRweSBLRaKpCI",
+          "types": ["route"]
+        }
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "類別": "閒晃",
+    "地名": "福德坑滑草公園",
+    "地址": "116台北市文山區木柵路",
+    "推薦交通方式＆預估花費時間": "騎車 約12分鐘",
+    "消費金額": 0,
+    "評價": 4.4,
+    "備註": "",
+    "geocode": {
+      "results": [
+        {
+          "address_components": [
+            {
+              "long_name": "Muzha Road, Section 1",
+              "short_name": "Muzha Road, Section 1",
+              "types": ["route"]
+            },
+            {
+              "long_name": "Wenshan District",
+              "short_name": "Wenshan District",
+              "types": ["administrative_area_level_3", "political"]
+            },
+            {
+              "long_name": "Taipei City",
+              "short_name": "Taipei City",
+              "types": ["administrative_area_level_1", "political"]
+            },
+            {
+              "long_name": "Taiwan",
+              "short_name": "TW",
+              "types": ["country", "political"]
+            },
+            {
+              "long_name": "116",
+              "short_name": "116",
+              "types": ["postal_code"]
+            }
+          ],
+          "formatted_address": "Muzha Road, Section 1, Wenshan District, Taipei City, Taiwan 116",
+          "geometry": {
+            "bounds": {
+              "northeast": { "lat": 24.9893283, "lng": 121.557694 },
+              "southwest": { "lat": 24.9853655, "lng": 121.5419957 }
+            },
+            "location": { "lat": 24.9874091, "lng": 121.5498789 },
+            "location_type": "GEOMETRIC_CENTER",
+            "viewport": {
+              "northeast": { "lat": 24.9893283, "lng": 121.557694 },
+              "southwest": { "lat": 24.9853655, "lng": 121.5419957 }
+            }
+          },
+          "place_id": "ChIJMbo_IgiqQjQRrWB34ZdFN4s",
+          "types": ["route"]
+        }
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "類別": "閒晃",
+    "地名": "小坑溪步道",
+    "地址": "116台北市文山區政大一街210巷",
+    "推薦交通方式＆預估花費時間": "騎車 約8分鐘",
+    "消費金額": 0,
+    "評價": 4.2,
+    "備註": "",
+    "geocode": {
+      "results": [
+        {
+          "address_components": [
+            {
+              "long_name": "Lane 210, Zhengdayi Street",
+              "short_name": "Lane 210, Zhengdayi Street",
+              "types": ["route"]
+            },
+            {
+              "long_name": "Muzha",
+              "short_name": "Muzha",
+              "types": ["neighborhood", "political"]
+            },
+            {
+              "long_name": "Wenshan District",
+              "short_name": "Wenshan District",
+              "types": ["administrative_area_level_3", "political"]
+            },
+            {
+              "long_name": "Taipei City",
+              "short_name": "Taipei City",
+              "types": ["administrative_area_level_1", "political"]
+            },
+            {
+              "long_name": "Taiwan",
+              "short_name": "TW",
+              "types": ["country", "political"]
+            },
+            {
+              "long_name": "116",
+              "short_name": "116",
+              "types": ["postal_code"]
+            }
+          ],
+          "formatted_address": "Lane 210, Zhengdayi Street, Wenshan District, Taipei City, Taiwan 116",
+          "geometry": {
+            "bounds": {
+              "northeast": { "lat": 24.9856935, "lng": 121.5851609 },
+              "southwest": { "lat": 24.9837644, "lng": 121.5832884 }
+            },
+            "location": { "lat": 24.9842086, "lng": 121.5841799 },
+            "location_type": "GEOMETRIC_CENTER",
+            "viewport": {
+              "northeast": {
+                "lat": 24.9860779302915,
+                "lng": 121.5855736302915
+              },
+              "southwest": { "lat": 24.9833799697085, "lng": 121.5828756697085 }
+            }
+          },
+          "place_id": "ChIJkdnKrYCqQjQRkyUXvfDdgoY",
+          "types": ["route"]
+        }
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "類別": "閒晃",
+    "地名": "新店老街",
+    "地址": "231新北市新店區新店後街",
+    "推薦交通方式＆預估花費時間": "騎車 約10分鐘",
+    "消費金額": "$",
+    "評價": 3.7,
+    "備註": "",
+    "geocode": {
+      "results": [
+        {
+          "address_components": [
+            {
+              "long_name": "Xindianhou Street",
+              "short_name": "Xindianhou Street",
+              "types": ["route"]
+            },
+            {
+              "long_name": "Xindian District",
+              "short_name": "Xindian District",
+              "types": ["administrative_area_level_3", "political"]
+            },
+            {
+              "long_name": "New Taipei City",
+              "short_name": "New Taipei City",
+              "types": ["administrative_area_level_1", "political"]
+            },
+            {
+              "long_name": "Taiwan",
+              "short_name": "TW",
+              "types": ["country", "political"]
+            },
+            {
+              "long_name": "231",
+              "short_name": "231",
+              "types": ["postal_code"]
+            }
+          ],
+          "formatted_address": "Xindianhou Street, Xindian District, New Taipei City, Taiwan 231",
+          "geometry": {
+            "bounds": {
+              "northeast": { "lat": 24.9563761, "lng": 121.53816 },
+              "southwest": { "lat": 24.9526238, "lng": 121.5373571 }
+            },
+            "location": { "lat": 24.9543004, "lng": 121.5376237 },
+            "location_type": "GEOMETRIC_CENTER",
+            "viewport": {
+              "northeast": { "lat": 24.9563761, "lng": 121.5391075302915 },
+              "southwest": { "lat": 24.9526238, "lng": 121.5364095697085 }
+            }
+          },
+          "place_id": "ChIJXxW7QocBaDQR07BeiVLCh3g",
+          "types": ["route"]
+        }
+      ],
+      "status": "OK"
+    }
+  },
+  {
+    "類別": "閒晃",
+    "地名": "木柵觀光茶園",
+    "地址": "台北市文山區指南路三段40巷",
+    "推薦交通方式＆預估花費時間": "騎車 約16分鐘",
+    "消費金額": "$$",
+    "評價": 3.8,
+    "備註": "",
+    "geocode": {
+      "results": [
+        {
+          "address_components": [
+            {
+              "long_name": "Lane 40, Section 3, Zhinan Road",
+              "short_name": "Lane 40, Section 3, Zhinan Road",
+              "types": ["route"]
+            },
+            {
+              "long_name": "Muzha",
+              "short_name": "Muzha",
+              "types": ["neighborhood", "political"]
+            },
+            {
+              "long_name": "Wenshan District",
+              "short_name": "Wenshan District",
+              "types": ["administrative_area_level_3", "political"]
+            },
+            {
+              "long_name": "Taipei City",
+              "short_name": "Taipei City",
+              "types": ["administrative_area_level_1", "political"]
+            },
+            {
+              "long_name": "Taiwan",
+              "short_name": "TW",
+              "types": ["country", "political"]
+            },
+            {
+              "long_name": "116",
+              "short_name": "116",
+              "types": ["postal_code"]
+            }
+          ],
+          "formatted_address": "Lane 40, Section 3, Zhinan Road, Wenshan District, Taipei City, Taiwan 116",
+          "geometry": {
+            "bounds": {
+              "northeast": { "lat": 24.9744574, "lng": 121.6058459 },
+              "southwest": { "lat": 24.9649915, "lng": 121.5933641 }
+            },
+            "location": { "lat": 24.9698952, "lng": 121.5996841 },
+            "location_type": "GEOMETRIC_CENTER",
+            "viewport": {
+              "northeast": { "lat": 24.9744574, "lng": 121.6058459 },
+              "southwest": { "lat": 24.9649915, "lng": 121.5933641 }
+            }
+          },
+          "place_id": "ChIJDzeXeCQAaDQR_16xL6H2E8g",
+          "types": ["route"]
+        }
+      ],
+      "status": "OK"
+    }
+  }
+]

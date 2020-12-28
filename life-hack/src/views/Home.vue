@@ -1,6 +1,6 @@
 <template>
   <div>
-    <b-container fluid style="position: absolute;left: 0px;">
+    <b-container class="bg-dark" fluid style="position: absolute;left: 0px;">
       <b-row align-h="center" align-v="center" style="height: 100vh">
         <b-col>
           <router-link to="/">
@@ -12,29 +12,34 @@
     <b-container fluid style="position: absolute;left: 0px;">
       <b-row align-h="center" align-v="center" style="height: 50vh">
         <b-col>
-          <router-link to="/map">
+          <router-link to="/map/food">
+            <b-img class="m-3" src="../assets/food.png" fluid width="200px" />
             <h2 class="navText">食</h2>
           </router-link>
         </b-col>
         <b-col>
           <router-link to="/move">
+            <b-img class="m-3" src="../assets/bus.png" fluid width="200px" />
             <h2 class="navText">行</h2>
           </router-link>
         </b-col>
       </b-row>
       <b-row align-h="center" align-v="center" style="height: 50vh">
         <b-col>
-          <router-link to="/move">
+          <router-link to="/dorm">
+            <b-img class="m-3" src="../assets/house.png" fluid width="200px" />
             <h2 class="navText">住宿</h2>
           </router-link>
         </b-col>
         <b-col>
-          <router-link to="/map">
+          <router-link to="/map/fun">
+            <b-img class="m-3" src="../assets/fun.png" fluid width="200px" />
             <h2 class="navText">育樂</h2>
           </router-link>
         </b-col>
         <b-col>
-          <router-link to="/map">
+          <router-link to="/map/medic">
+            <b-img class="m-3" src="../assets/medic.svg" fluid width="200px" />
             <h2 class="navText">醫療</h2>
           </router-link>
         </b-col>
@@ -45,6 +50,7 @@
 
 <script>
 // @ is an alias to /src
+// import icon from "../components/main_icon";
 
 export default {
   name: "Home",
