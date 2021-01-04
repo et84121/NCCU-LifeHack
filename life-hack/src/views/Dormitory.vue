@@ -2,7 +2,7 @@
   <b-container>
     <h1 class="my-2">
       <router-link to="/">政大 Life Hack</router-link>
-      「住宿」篇
+      <br />「住宿」篇
     </h1>
     <b-breadcrumb
       class="my-2"
@@ -13,7 +13,7 @@
     ></b-breadcrumb>
 
     <b-row>
-      <b-col class="text-left">
+      <b-col class="text-left" md="12" xl="6">
         <h2 class="text-center">宿舍</h2>
         <ul>
           <li>
@@ -36,7 +36,7 @@
           </li>
         </ul>
       </b-col>
-      <b-col class="text-left">
+      <b-col class="text-left" md="12" xl="6">
         <h2 class="text-center">外宿</h2>
         <ul>
           <li>校外租屋會遇到的問題</li>
